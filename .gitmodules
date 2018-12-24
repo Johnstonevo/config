@@ -1,0 +1,6 @@
+[submodule "romlists"]
+	path = romlists
+	url = https://github.com/johnstonevo/romlists.git
+[submodule "emulators"]
+	path = emulators
+	url = https://github.com/johnstonevo/emulators.git
