@@ -4,3 +4,6 @@
 [submodule "emulators"]
 	path = emulators
 	url = https://github.com/johnstonevo/emulators.git
+[submodule "layouts"]
+	path = layouts
+	url = https://github.com/Johnstonevo/layouts.git
