@@ -7,3 +7,6 @@
 [submodule "layouts"]
 	path = layouts
 	url = https://github.com/Johnstonevo/layouts.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/johnstonevo/xml.git
