@@ -1,0 +1,70 @@
+Log creation: 15/09/2018 20:14:29
+
+Closemul v0.4.3
+www.lustark.com
+
+---------------------------------------------------------------------------------------------------------------------------
+- Exit Key 1:		(ASCII key code). The key that will be used to Exit the Program. Defaults to ESC (27).
+- Exit Key 2:		(ASCII key code). A second key to form an ExitKey1+ExitKey2 combination to Exit the Program.
+- Extract:		("unzip" for zip, 7z, tar, or "unrar" for rar). Extract File, then run it with the Program.
+- Extracted Ext 1:	(without the dot, as in "cue"). In case there are several files in the archive.
+- Extracted Ext 2:	(without the dot, as in "cue"). In case the archive could contain another file format.
+- Pre Command:		("bat"/"exe" or path\executable.ext). Program to execute before launching the File.
+- Post Command:		(executable.ext or path\executable.ext). Program to execute when the main Program is closed.
+- Mount Program:	("daemon"/"wincdemu", or full path). Mounts The File to a virtual drive before launching the Program.
+- Mount Device:		(virtual drive letter "V" or device number "0"). Needed by the mount setting.
+- Unmount Command:	(put quotes around the whole line, not around each parameter). Needed if you use another mount program.
+- Registry File:	(name.reg). Enforce settings from .reg before the File is launched.
+- Automation:		(Keyword or Window Title). To activate automated loading. Needed by the Automation Steps setting.
+- Automation Steps:	(comma separated list, using WAIT/ASCII/F1-F12/ENTER/SPACE/SHIFT+/CTRL+/ALT+/WIN+).
+- Automation Delay:	(milliseconds, Defaults to 150). Time to Wait between each Automation Commands.
+- Automation Key Down:	(milliseconds, Defaults to 10). Time to hold each key pressed during Automation.
+- Automation Key Delay:	(milliseconds, Defaults to 0). Speed for Key pressed during Automation.
+- Program:		The Program that is going to be run then closed using the Exit Key(s).
+- Program 2:		This program will not be launched, but will replace the Program to be closed using the Exit Key(s).
+- Param Before File:	If the Program needs extra command line parameters Before the File name.
+- Param After File:	If the Program needs extra command line parameters After the File name.
+- File:			A File to be run by the Program.
+- Snap 1 Search:	(Search String). Search a File containing this string.
+- Snap 2 Search:	(Search String). Search a File containing this string.
+- Snap Extension:	(File Extension). The file format of the snapshots.
+- Snap Source Folder:	(Path). Source Folder of the snapshots.
+- Snap 1 Dest Folder:	(Path). Destination Folder for the first snapshot.
+- Snap 2 Dest Folder:	(Path). Destination Folder for the second snapshot.
+- Quit Management:	(0:Off 1:On(Default) 2:orESC 3:=ESC 4:CloseOnly 5:MethodB 6:MethodB+orESC 7:MethodB+=ESC).
+- Quit TimeOut:		(Defaults to 200. 0: Always Force) Gently Close Program -> TimeOut -> Forcefully Close Program.
+- Disable Quotes:	(0|blank: Use Quotes / 1: Disable quotes). Some emulators do not expect quotes.
+---------------------------------------------------------------------------------------------------------------------------
+[Log]
+Exit Key 1= []
+Exit Key 2=
+Extract=
+Extracted Ext 1=
+Extracted Ext 2=
+Pre Command=
+Post Command=
+Registry File=
+Mount Program=
+Mount Device=
+Mount Parameters=
+Unmount Command=
+Automation=
+Automation Steps=
+Automation Delay=
+Automation Key Down=
+Program=
+Program 2=
+Param Before File=
+Param After File=
+File=E:\arcade\sistemas\ordenadores\commodoreamiga\amigaforever\files\Games\Deluxe Galaga (Edgar M. Vigdal, 1994, Amiga).rp9
+Snap 1 Search=
+Snap 2 Search=
+Snap Extension=
+Snap Source Folder=
+Snap 1 Dest Folder=
+Snap 2 Dest Folder=
+Quit Management=
+Quit TimeOut=200
+Disable Quotes=
+Full Program Command Line=
+Full Mount Command Line=
