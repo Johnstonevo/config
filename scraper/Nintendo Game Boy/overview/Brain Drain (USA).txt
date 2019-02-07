@@ -1,0 +1,1 @@
+Brain Drain is a puzzle game in which the player has to recreate a pattern, consisting of different symbols like apples or hearts, which is shown in the corner of the screen. The main playing field consists of said symbols, but randomly switched around. T 

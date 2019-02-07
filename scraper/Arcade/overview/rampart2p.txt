@@ -1,0 +1,1 @@
+945. The island in Rampart is very similar with a map of Jersey in the Channel Islands, but its purely a coincidence.- TIPS AND TRICKS -* The peons that attack you after unloading from the ships cannot fire diagonally.

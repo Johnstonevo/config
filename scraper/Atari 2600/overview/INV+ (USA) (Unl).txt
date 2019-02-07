@@ -1,0 +1,1 @@
+This is an Atari 2600 version of Space Invaders designed to have eleven rows of invaders. It also adds three colors to the invaders and a different color for player two. 

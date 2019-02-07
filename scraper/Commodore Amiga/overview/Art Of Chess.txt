@@ -1,0 +1,3 @@
+This chess simulation can be played in 2D or 3D, from multiple viewing angles and a wide choice of display colors. Pieces can also be designed using Deluxe Paint, and imported.  
+ 
+Art of Chess has many features making it a learning tool as well as a mere game. There are multiple skill levels, plus the option to swap sides. Board positions can be manually set up. Players can move back and forth through previous moves, allowing experimentation with different strategies and the undoing of crucial mistakes. Thirty classic games involving Grandmasters are built in, allowing players to view them move-by-move, or take part themselves from any point. 

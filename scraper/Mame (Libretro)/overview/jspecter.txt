@@ -1,0 +1,1 @@
+Space Invader's clone. Jatre Specter is faster than the original Space Invaders.

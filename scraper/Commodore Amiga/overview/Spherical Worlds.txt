@@ -1,0 +1,5 @@
+Spherical Worlds is a multi-directional shoot 'em up in the vein of Alien Breed where players control a small spherical droid which needs to destroy enemy robots on a space station. Each level is won by navigating the maze correctly and reaching the exit, sometimes requiring keys that need to be collected. 
+ 
+The droid has both a set amount of extra lives and a health bar, which is reduced by touching other robots. There is one main weapon (which can overheat) and a secondary weapon with limited ammo. At the end of each level, weapon upgrades can be bought in a shop. 
+ 
+The most important aspect of gameplay is that the droid can easily fall off edges or through holes. Different terrains have effects on the acceleration and friction of the droid, so the player has to carefully navigate the levels. 

@@ -1,0 +1,1 @@
+Super PakPak is a 2-4 player Spacewar!/Thrust/Gravity force style game for Nintendo Entertainment System and Famicom. It was programmed in a few weeks in 2010, and was submitted as an official entry for the Assembly Summer 2010 Game Development competition (Ranked 7th out of 19) in Helsinki, Finland.

@@ -1,0 +1,3 @@
+Star Jacker is a shoot 'em up video game released for Sega System 1 arcade hardware in 1983. Unlike most shoot 'em ups, the player initially controls three space ships, losing one each time the player dies. This means on the first life you will have three times the amount of firepower than on your last. 
+ 
+Like Xevious there are two types of weapon - forward lasers for flying enemies and bombs for bases. 

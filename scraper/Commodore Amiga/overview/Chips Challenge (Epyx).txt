@@ -1,0 +1,75 @@
+>Chip desperately wants to join gorgeous Melinda's exclusive Bit Busters  
+>Computer Club, and he's ecstatic when she offers him membership!  
+>But there's a catch - before Chip can become a card-carrying Bit Buster,  
+>he must complete Melinda's challenge... 
+> -- Game Box 
+ 
+ 
+ 
+ 
+***Chip's Challenge*** is a top-down tile-based puzzle video game  
+created in 1989 by Chuck Sommerville originally for the hand-held  
+Atari Lynx. Chip's Challenge was then later ported to multiple formats  
+including the Amiga, Commodore 64, ZX Spectrum, DOS, and Windows,  
+included in the Microsoft Entertainment Pack and Best of Microsoft  
+Entertainment Pack (the last of which was written by Tony Krueger in 1991) 
+. Microsoft licensed Chip's Challenge from Epyx to write a DOS and  
+Windows version of the game; while porting the game, the logic was  
+slightly changed from the original version. It has also been converted  
+to the TI-84+ calculator and the TI-89 Titanium. 
+ 
+ 
+ 
+ 
+The original game was designed and coded by Chuck Sommerville, who also  
+made about a third of the levels.[3] Most of the conversions from the  
+Atari Lynx original to other formats were carried out by Images  
+Software in the UK. 
+ 
+ 
+ 
+ 
+The premise of the game is that high-school nerd Chip McCallahan has  
+met Melinda The Mental Marvel in the school science laboratory and must  
+navigate through Melinda's "Clubhouse" (a series of increasingly  
+difficult puzzles) in order to prove himself and gain membership to  
+the very exclusive Bit Buster Club. 
+ 
+ 
+ 
+ 
+***Gameplay*** 
+ 
+ 
+ 
+ 
+Chip's Challenge consists of a series of 148 two-dimensional levels  
+(149 in Microsoft's version) which feature the player character,  
+Nerdy Chip McCallahan, often called just Chip, and various game  
+elements such as computer chips, buttons, locked doors, water and  
+lethal monsters. Gameplay involves using arrow keys, directional pad  
+or mouse to move Chip about each of the levels in turn, collecting  
+enough chips to open the chip socket at the end of each level, get to  
+the exit, and move on to the next level. 
+ 
+ 
+ 
+ 
+While the same set of rules applies to each level, there are many  
+different kinds of levels. Some are action-oriented and some are  
+puzzle-oriented. Most levels have a time limit. Types of levels  
+include solving a block-pushing puzzle to clear a path, dodging  
+enemies, and moving through a maze. Levels can be skipped by entering  
+an appropriate four-letter non-case-sensitive password. For the PC  
+versions, game progress is automatically saved. If one is having a  
+lot of trouble with a level, the game allows the player to skip to  
+the next level. Progress is measured in terms of completed levels  
+and player score, which is a sum of the scores obtained on each level.  
+Level scores for timed levels can be improved by quickly completing  
+the level, and scores on all levels can be improved by using fewer  
+attempts to complete the level. 
+ 
+ 
+ 
+ 
+Source:[Wikipedia](http://en.wikipedia.org/wiki/Chip%27s_Challenge) 

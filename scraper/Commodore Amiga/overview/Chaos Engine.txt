@@ -1,0 +1,13 @@
+The Chaos Engine is a top-down run and gun video game developed by The Bitmap Brothers and published by Renegade Software in 1993. The game is set in a steampunk Victorian age in which one or two players must battle the hostile creations of the titular Chaos Engine across four landscapes and ultimately defeat the Chaos Engine and its deranged inventor. 
+ 
+It was first released for the Commodore Amiga, a version available for AGA Amigas, and later ported to MS-DOS, and the Super Nintendo Entertainment System, Atari ST, Amiga CD32, Amiga 500, RISC OS and Sega Mega Drive platforms. In the SNES and Sega versions, the character The Preacher had his clerical collar removed and was renamed The Scientist. The U.S. versions of these two ports were retitled Soldiers of Fortune. A sequel to the game, The Chaos Engine 2, was released in 1996. 
+ 
+The setting is a steampunk Victorian era England. The backstory of the game has some similarities to William Gibson and Bruce Sterling's novel, The Difference Engine, also set in an alternate history Victorian age. 
+ 
+A time traveller on a reconnaissance mission from the distant future became stranded in England of the late 1800s, and his technology came into the hands of the Royal Society led by Baron Fortesque (based upon Charles Babbage), a grand inventor. Fortesque then retro engineered many of the futuristic contraptions, creating an entirely different, alternate timeline. 
+ 
+Baron Fortesque then succeeded in his greatest creation yet - the Chaos Engine - which was able to experiment with matter, and the very nature of space and time. Unfortunately for the rest of the proud kingdom, the Engine then proceeded to become sentient and captured and assimilated its creator, then began to change the countryside for the worse. Vile monsters and destructive automata appeared everywhere, and even prehistoric beasts were resurrected. Telegram wires connecting the British Isles to the European mainland are cut, and any ship attempting to enter a British port is attacked. The British Royal Family, along with members of Parliament and a large number of refugees manage to escape across the sea, bringing with them many tales of horror. The British Empire is left in tatters, and the world in economic and political chaos. This lures a number of mercenaries on a potentially rewarding quest to infiltrate the quarantined Britain, find the root of the problem and swiftly bring a full stop to it. 
+ 
+The introductory sequence is displayed in text on the screen on the floppy disk based Amiga versions, but a slightly modified version is narrated with a voiceover on the Amiga CD32 version, together with some scene-setting animations. 
+ 
+Source: Wikipedia 

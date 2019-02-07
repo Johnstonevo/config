@@ -1,0 +1,1 @@
+The object of the game was to control a space cube and shoot the stars and points of light on each of the faces. Once you cleared a face you must rotate the cube to get to the next wave.

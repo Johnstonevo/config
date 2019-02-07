@@ -1,0 +1,1 @@
+A solid state electronic pinball similar to Williams Gorgar.

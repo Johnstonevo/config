@@ -1,0 +1,20 @@
+> ***Featuring:*** 
+ 
+> * Fight up to 128 intelligent enemies simultaneously. 
+> * Infinitely progressive difficulty on 3 skills levels. 
+> * Team, Competition, and Single Player modes. 
+> * Blistering action - high speed machine code. 
+> * Special powers include: Shields, Autofire, Missiles, SmartBombs and Cloaking Devices. 
+> * Stunning sound track and incredible Special F/X. 
+ 
+> The explosion of the planet Xerxes plunged it’s eight orbiting colonies 
+> into deep space, Forced to rebuild their shattered civilisation they are 
+> seeking out a new home planet. You must guide and protect the eight 
+> survival pods through their dangerous voyage and lead them to sanctuary. 
+> -- Back of Box 
+ 
+Datastorm is similar to the arcade game, [Defender](/arcade/defender). Written by Søren Grønbech, it was inspired by [Dropzone](/commodore-64/dropzone) for the Commodore 64. As such, the exact gameplay deviates from [Defender](/arcade/defender) in that the task on each level is to carry the 8 pods through a portal, with points on completing a level for each one saved. The amount of points increases for each level: on levels 5, 9, 13 and so on, the player gets a new set of eight and the scoring resets. 
+ 
+Like Grønbech's [Sword of Sodan](/amiga/sword-of-sodan), it made full use of the Amiga's hardware at a time when most games were direct ports from the Atari ST; the number of sprites moving smoothly around the screen is noteworthy. Some, including the Datastorm itself, cover almost the entire length of the screen. 
+ 
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Datastorm) 

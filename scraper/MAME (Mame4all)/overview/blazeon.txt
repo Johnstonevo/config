@@ -1,0 +1,1 @@
+A bog-standard but playable horizontally scrolling shoot-em-up in which the player fights waves of enemies. Some enemy units can be captured and used in play; certain enemy robots, when shot by the player, will morph into an outline of themselves; the player can then fly into the outline, and take on the form of the robot enemy.

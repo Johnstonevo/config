@@ -1,0 +1,3 @@
+Mr. Heli takes place in the year 2999 and Mr. Muddy is threatening the planet. Fortunately the player has a fully armed large helicopter with which to attack his sadistic minions. The helicopter will fly through four side-view levels, primarily scrolling left to right but with some variant, each of which ends with a boss. 
+ 
+As well as enemies, there are many blocks on the levels. The weapon upgrade system is build into these, which function in two different ways. Most will drop crystals, which if collected are added to a cash total. The others reveal a picture of a weapon with a price - make contact with it while carrying enough credits and the weapon will be bought. When the energy bar runs out the player loses a life. When this happens the player loses all money. 

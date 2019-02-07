@@ -1,0 +1,1 @@
+a vertically shooting game, where players get a choice of characters. Each craft has a different ratio of speed to firepower.the main characters in this version are 'hiro', 'kiniro', 'palm' and 'reco'.

@@ -1,0 +1,1 @@
+This baseball game has the following game modes: Starting Pitcher - 9 Inning game for either one or two players, Relief Pitcher - 12 game season for one player, and Relief Pitcher - Best of 7 series for two players. 

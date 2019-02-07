@@ -1,0 +1,1 @@
+Eightman (c) 1991 SNK [Shin Nihon Kikaku].  A side-scrolling beat'em up / platform game.  - TECHNICAL -  SNK Neo-Geo MVS Hardware Game ID : [Model NGM-025]  Main CPU : 68000 (@ 12 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  [SNK MVS Neo 

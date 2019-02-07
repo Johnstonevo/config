@@ -1,0 +1,1 @@
+'. In this version, Wario is the 'dashing hero' instead of the cowboy from the arcade game; the gameplay and graphics are otherwise basically the same. 'Sheriff' also serves as the basis for one of 9-Volt's microgames during normal play.

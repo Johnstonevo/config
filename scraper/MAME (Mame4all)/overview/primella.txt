@@ -1,0 +1,1 @@
+A puzzle game from NTC where you have to arrange colored number-blocks so that they disappear.

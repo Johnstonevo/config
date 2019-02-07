@@ -1,0 +1,1 @@
+You control a 'blob' that you move to attempt to keep the screen area within the walls of the tunnel you are flying down. 

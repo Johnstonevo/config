@@ -1,0 +1,1 @@
+Game features :- Raised scorebox using two legs- Fluorescent numeric scoring displays of which the game can display a limited set of words.

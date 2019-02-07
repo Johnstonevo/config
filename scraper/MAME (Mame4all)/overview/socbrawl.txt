@@ -1,0 +1,1 @@
+Soccer Brawl (c) 1992 SNK.  A futuristic soccer game.  - TECHNICAL -  SNK Neo-Geo MVS hardware Game ID: [Model NGM-031]  Main CPU : 68000 (@ 12 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  [SNK MVS Neo-Geo Controls] 2 players - 4 buttons 

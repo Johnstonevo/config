@@ -1,0 +1,1 @@
+Scrabble is a board game about Megadrive. You have to form words on a board to collect as many points as possible. Each letter is indeed associated with a value inversely proportional to its frequency in the French language. On the board are also scattered a few bonus boxes which allow to double or even triple the value of the letter or the word that passes there.

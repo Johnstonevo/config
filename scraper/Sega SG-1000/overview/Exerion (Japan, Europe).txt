@@ -1,0 +1,3 @@
+Exerion is a arcade shoot-'em-up released by Jaleco in 1983. It was ported to several systems including the SG-1000. 
+ 
+Exerion is a very basic shoot-'em-up, however its main appeal at the time was its parallax backgrounds, whose positions would change depending on the coordinates of the player's ship. Unfortunately, the effects do not transfer well onto the SG-1000, as the scrolling is choppy. 

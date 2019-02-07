@@ -1,0 +1,1 @@
+A Solid State Electronic pinball machine similar to Sky Jump (Gottlieb).

@@ -1,0 +1,1 @@
+SNES Port of the arcade game Fighter's History. New features include a Survival five-on-five team elimination match mode, two new colors, and selectable game speeds. The two bosses, Clown and Karnov, are playable via a code.

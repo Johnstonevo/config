@@ -1,0 +1,1 @@
+The object is to hit your opponent's player with the ball while avoiding being hit. Once a player has been hit three times, that player is out of the game. The game is won by knocking all the opposing players out of the game. 

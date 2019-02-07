@@ -1,0 +1,5 @@
+SOLID GOLD is a freeware (in electronic form) Jump'n Run with 8-way soft scrolling. It's written for the classic Amiga hardware and designed in the style of the early 90s. 
+ 
+You are John Kayle, an adventurer and archeologist, trying to recover important artefacts in four different places of the world, competing with a mysterious secret society. 
+ 
+The game features ten levels spanning four worlds, with different graphics and enemies. Each level's goal is to find an artefact which will lead the  way to the next world. Most enemies can be killed by jumping onto them. It is important to hit them from above. Touching an enemy's side or contact from below are lethal for the hero. After collecting 50 gems of any kind you will be granted an extra life. Each level is concluded by a statistics screen. It will display the number of collected items and killed enemies, opposed to total numbers. Upon reaching the maximum possible numbers, an extra bonus is granted. 

@@ -1,0 +1,20 @@
+The second Lotus game shifts focus to an arcade-oriented gameplay. Being the first of the series released for a game console (for Sega Mega Drive under the title Lotus Turbo Challenge), the fuel limit and difficulty levels are dropped, and the lap-based levels are replaced with course-based time trials, (not unlike arcade games such as Out Run), with the player required to complete each course within a specified time to qualify for the next one. 
+ 
+> [Lotus Esprit Turbo Challenge](/amiga/lotus-esprit-turbo-challenge) was widely acclaimed as the best driving game of 1990. The best just got better with the release of ***Lotus Turbo Challenge 2***. 
+>  
+> * Synchronised play for up to four drivers with computer link. 
+> * One player full screen imagery. 
+> * Hair raising new hazards - rain, lightning, fog, snow, commuter traffic, tunnels, bridges and level crossings. 
+> * A chance to race across the USA. 
+> * A choice of the sleek new Turbo Esprit or the new stylish Elan softtop. 
+> * 8 death defying stages with over 60 Check Points. 
+> 
+> -- Back of game box 
+ 
+In addition to the Esprit Turbo SE, Lotus Turbo Challenge 2 also features the Lotus Elan SE, hence 'Esprit' being dropped from the title. There is no choice of car however; it varies depending on the scenery of the level (the hard-top Esprit is used for the snow and thunderstorm levels, for example, while the Elan SE appears in the desert and forest levels). 
+ 
+In an improvement over its predecessor, Lotus 2's single-player mode uses all of the game screen instead of half, and opponent cars appear in a variety of colors (opponent cars in the original game were all white). However, music is absent from racing altogether; the player instead hears the car's engine sound. Lotus 2 uses a password system to access different races (once the player qualifies for a particular race, the password is revealed); the password DUX accesses a hidden game, and the password TURPENTINE removes the race time limits. 
+ 
+Barry Leitch's intro music for Lotus 2 is often found on playlists of retro computer music webradio stations; it contains a sampled voice at around the 12-second mark (played through the left channel only) which says "you will not copy this game". The sample is played very quietly during the first few bars, and can be easily accessed in any MOD tracker program. 
+ 
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Lotus_%28series%29#Lotus_Turbo_Challenge_2) 

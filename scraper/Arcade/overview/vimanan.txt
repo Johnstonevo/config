@@ -1,0 +1,1 @@
+A vertical shoot'em up from Toaplan featuring a charge shoot system.

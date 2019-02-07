@@ -1,0 +1,1 @@
+Putt & Putter for the Sega Master System, known as Minigolf in Brazil, is an isometric minigolf game developed by SIMS. It should not be confused with the Game Gear version, which contains completely different maps. The only gameplay difference is that the ball can go out of bounds, in which case the ball will return to the previous legal position.

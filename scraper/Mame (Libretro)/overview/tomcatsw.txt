@@ -1,0 +1,1 @@
+20K.  Jed was planning to investigate using a TMS32010 DSP to replace the AVG State Machine (and the Gate Array along with it), but the handwriting was on the wall so Jed canceled TomCat and accepted Rick's invitation to join the Hard Drivin' team.

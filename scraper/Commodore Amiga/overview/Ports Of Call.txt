@@ -1,0 +1,9 @@
+Ports of Call is a maritime trading simulation game. It was published by the company Aegis Interactive Software in 1987 for Amiga 500/600 (OCS/ECS) and 1990 for IBM PC, the Amiga version was graphically and sonically superior, according to the still rather limited multimedia capabilities of PCs. In a new version (XXL), the game is now also play on the PC in a contemporary graphic, among others, port entrances and exits in 3D. 
+ 
+The player is the owner of a shipping company and buys at the start of the game some ships to transport goods across the oceans. Important is not just a lucky hand in the trade and the choice of the freighter, but also a little skill, because the player must maneuver his ship often even in the port of destination and thereby control the speed and course. Sometimes you have but also move your ship through reefs or similar. The graph is quite simple and will take place in the plan view. There is also a weather system, through which one can caught in a storm at sea. Even the entry into ports of the trouble spots of the world is very dangerous as pirates and infectious diseases . 
+ 
+If you make it to the shipping company successfully in the black, you have the opportunity to buy high-tech ships. 
+ 
+(translated from german to english) 
+ 
+Source: Wikipedia 

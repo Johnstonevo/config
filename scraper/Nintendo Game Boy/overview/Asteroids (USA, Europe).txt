@@ -1,0 +1,1 @@
+Asteroids is a conversion of the arcade game of the same name.Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon.  When all asteroids are destroyed, the play can them move 

@@ -1,0 +1,1 @@
+In Kula World, the player controls a beach ball navigating a series of cubic-grid labyrinths suspended high above various locales. The objective of each level is to collect all of the keys scattered throughout to unlock the exit. The player can also collect coins and gems which increase their score. 

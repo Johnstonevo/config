@@ -1,0 +1,1 @@
+895.Dave Akers originally programmed this in Amiga Basic, then ported it line-by-line to C. It was written in just a few weeks on Escape From the Planet of the Robot Monsters hardware.

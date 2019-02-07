@@ -1,0 +1,1 @@
+In LUCLE, the player controls a space ship which is stranded on a foreign planet. In order to leave it, it needs to find one energy field per level. The biggest problem is how the ship is built: two round cockpits connected with a stiff rod. One of the co 

@@ -1,0 +1,1 @@
+Power Mission is a turn-based strategy game set at sea. Both players choose one of five fleets which consist of combinations of eight different units. Different kinds of units have varying attributes like attack strength or range. At the start of a battle 

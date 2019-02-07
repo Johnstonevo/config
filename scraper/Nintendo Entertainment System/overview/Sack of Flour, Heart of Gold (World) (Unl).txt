@@ -1,0 +1,1 @@
+This is a homebrew demo by Bob Rost. You control a sack of flour moving through 2d levels in order to avoid certain annihilation by the enemies around you.

@@ -1,0 +1,1 @@
+Penguin & Seal is an arcade action game similar to Pengo. The player controls a penguin who must gather gems and deposit them into an igloo while avoiding becoming lunch for the seals wandering nearby. Each stage is filled with blocks, most of which can b

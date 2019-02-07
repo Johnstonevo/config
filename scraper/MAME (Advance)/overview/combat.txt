@@ -1,0 +1,1 @@
+A 2-player tank game where the object is simple - shoot your opponent's tank before they shoot yours. There are 27 game variations, some of which let you play with airplanes instead of tanks.

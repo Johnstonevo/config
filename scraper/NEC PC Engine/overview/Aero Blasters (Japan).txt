@@ -1,0 +1,1 @@
+Air Buster is a fast side-scrolling shooter. The player controls a small craft through different levels with many enemies. Every level ends with a boss and some section speed up the gameplay, offering fast obstacle courses both horizontally and vertically 

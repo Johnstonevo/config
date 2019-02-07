@@ -1,0 +1,76 @@
+Princess Alicia of the kingdom of Mitgult is kidnapped by the monster Zawell. It's now up to the heroic warrior Amul to transform himself into a blue dragon and go and rescue the princess. 
+ 
+Dragon Spirit is a vertically scrolling shoot-em-up which consists of nine stages. Players fly around and destroy everything in their path. Much like in Xevious, action takes place on two planes, both in the sky (where the dragon is flying) and on the ground. The dragon has two different kind of attacks: fire that shoots up the screen, and fire that drops to hit a place on the ground in front of the dragon. Enemies exist both in the air and on the ground, and some can fly up from the ground to the sky. 
+ 
+Players can pick up power-ups, or upgrades, that will help them in their fight. Upgrades can include extra heads on the dragon, health, faster shots, and more. At the end of each stage is a boss that needs to be defeated. Having good upgrades that are not lost from being hit before reaching the bosses will help. 
+ 
+The NES version is unique in that it presents a somewhat altered story and an additional gameplay mode. Technically, it is a sort of sequel, with "A New Legend" being its subtitle. In this version, Zawell is already defeated and King Amul and his now wife Queen Alicia, have two children named Iris (a princess) and Lace (a prince). A new evil named Galda has decided to attack the Earth. Galda also has taken Iris captive and now Lace must go rescue her. 
+ 
+The NES version also adds a new initial stage. If the player survives it, the game continues in a "Blue Dragon" game much like the original arcade game. If the player fails to clear this initial stage in one life, an easy mode called "Gold Dragon" begins, skipping about half the game's stages, giving the player extra hit points, and features a different ending. 
+ 
+Also of note, the TurboGrafx-16 version's seventh and eighth stage are different than the other versions. The underwater and dark themed stages were changed to castle interior themed stages. 
+[edit description | view history] 
+ 
+Screenshots 
+ 
+There are no Amiga screenshots for this game. 
+ 
+There are 91 other screenshots on file for other versions of this game. 
+[add screenshots] 
+ 
+Alternate Titles 
+ 
+"ドラゴンスピリット 新たなる伝説" -- Famicom Japanese spelling 
+"Dragon Spirit: The New Legend" -- NES US title 
+"Dragon Spirit - Aratanaru Densetsu" -- Japanese title 
+"ドラゴンスピリット" -- Japanese spelling 
+ 
+[add alternate title] 
+ 
+Part of the Following Groups 
+ 
+Dragon Spirit series 
+Gameplay feature: Dragon flying / riding 
+Genre: Scrolling shoot 'em up 
+ 
+User Reviews 
+ 
+There are no reviews for this game. 
+[review game] 
+ 
+Critic Reviews 
+Power Play 	Nov, 1989 	66 out of 100 	66 
+Amiga Joker 	Dec, 1989 	65 out of 100 	65 
+The Games Machine (UK) 	Jan, 1990 	64 out of 100 	64 
+ASM (Aktueller Software Markt) 	Nov, 1989 	5.8 out of 12 	48 
+[add review] 
+ 
+Forums 
+Topic 	# Posts 	Last Post 
+Dragon Spirit: The New Legend - split? 	1 	Alaka (38312) 
+Feb 17, 2014 
+Dragon Spirit: The New Legend 	1 	Patrick Bregger (156324) 
+Sep 19, 2011 
+[new thread] 
+ 
+Trivia 
+Awards 
+ 
+Power Play 
+Issue 01/1990 - #3 Best TurboGrafx-16 Game in 1989 
+ 
+[edit trivia] 
+ 
+Martin Smith (62938) added Dragon Spirit (Amiga) on May 22, 2004 
+Other platforms contributed by Charly2.0 (38773), POMAH (38419), Agamenon3 (3775), Riamus (8124), Martin Smith (62938) and Terok Nor (22576) 
+Credits 
+Code: 
+Neil Harding 
+Graphics: 
+David Howcroft 
+Music: 
+Dave Kelly, Glenn Benson 
+FX: 
+Dave Kelly, Glenn Benson 
+Extras: 
+Stephen Harding 

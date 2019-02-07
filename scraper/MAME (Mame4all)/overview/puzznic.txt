@@ -1,0 +1,1 @@
+Puzznic counts 100 levels, with 4 puzzles per levels. You must clear all the tiles (coins, jewels, objects...) by moving them next to each other so they dissapear. As usual, each level must be finished in a set time limit. Every 4 puzzles, a girl will give you a password.

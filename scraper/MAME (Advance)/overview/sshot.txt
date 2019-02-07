@@ -1,0 +1,1 @@
+A black and white shooting game, where the player uses an optical gun to shoot various screen targets, like balloons, glasses and light bulbs.

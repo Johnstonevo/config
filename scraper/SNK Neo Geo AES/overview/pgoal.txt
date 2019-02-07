@@ -1,0 +1,1 @@
+Pleasure Goal - 5 on 5 Mini Soccer (c) 1996 Saurus.  - TECHNICAL -  SNK Neo-Geo MVS hardware Game ID : 0219  Main CPU : 68000 (@ 12 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Screen orientation : Horizontal Video resolution : 320 x 224 

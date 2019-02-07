@@ -1,0 +1,1 @@
+A video slot machine with 5 reels and 9 lines.

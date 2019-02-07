@@ -1,0 +1,1 @@
+Zed Blade is a sideways scrolling shoot-em-up for one or two players. Players can chose from three different ships, each with varying speeds. 

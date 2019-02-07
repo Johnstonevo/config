@@ -1,0 +1,1 @@
+Actua Pool is a pool simulation game. Game modes include a two player match, hustle mode, trick shots, tournaments and an interactive tutorial. Winning tournaments unlocks new NPCs to play against. Each NPC opponent has its own unique playing style and difficulty. You can play on a variety of different tables. 

@@ -1,0 +1,1 @@
+The object of S.T.U.N. Runner is to complete each course before time runs out. Enemy craft will try to slow you down along the way. You can destroy these enemies individually with blasts from you laser or in groups with Shochwaves collected along the way.

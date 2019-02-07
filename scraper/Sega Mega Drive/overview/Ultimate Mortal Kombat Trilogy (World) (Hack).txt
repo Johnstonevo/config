@@ -1,0 +1,1 @@
+This is a hack by KABAL_MK of Ultimate Mortal Kombat 3 for the Sega Genesis. It adds nearly all playable characters from the Genesis/MegaDrive versions of Mortal Kombat 1, 2, and 3 -including the absent Sheeva, and also adds new backgrounds, specials, combos, finishing moves, and missing audio samples.

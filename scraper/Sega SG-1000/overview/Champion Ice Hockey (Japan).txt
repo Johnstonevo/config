@@ -1,0 +1,1 @@
+You can play an ice hockey match at three difficulty levels: amateur, semi-professional and professional. A referee is present at the start and during foul play. A match takes 20 min 

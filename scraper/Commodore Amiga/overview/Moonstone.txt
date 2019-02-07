@@ -1,0 +1,23 @@
+Moonstone's gameplay blends several different genres, including strategy, real time fighting and role-playing video games. It allows up to four players to participate in a basic turn based Role Playing Game with real time combat for any encounters. It is also notable as one of the goriest games of its time, with some exceptionally bloody fight and death scenes. 
+ 
+The player takes on the role of a chosen knight who is sent by the druids to return the mystical 'moonstone' to Stonehenge. The game supports between 1 to 4 players at once, with the computer controlling any knights not controlled by human players as rival NPCs. 
+The world map is divided into 4 distinct regions: 
+ 
+(1) Misty Moors: The NW region of the Blue Knight (Sir Godber). Monsters found there are the Axe and Spear-bearing Troggs as well as their War Beasts. There is also the city of Highwood with the High Temple where the player can buy and sell magical items. 
+ 
+(2) Wetlands: The SE region of the Red Knight (Sir Edward). Monsters are the Trolls and the Mudmen. There is also the city of Waterdeep with Mythral the Mystic who can advance the player's abilities in exchange of gold (or randomly reduce them). 
+ 
+(3) Great Forest: The SW region of the Green Knight (Sir Jeffrey). Monsters are the Troggs and the Ratmen. It features the Stonehenge where the player can gain a life by donating a magical item. 
+ 
+(4) Northern Wastelands: The NE region of the Orange Knight (Sir Richard). Monsters include Troggs and Baloks. It also features the Tower of Math the Wizard who can randomly reward the player or transform him into a frog if he asks repeatedly. 
+ 
+Gameplay consists of two distinct modes: Turn based exploration and real time combat. 
+In turn based mode where each player can move a limited distance on the game's world map and visit various locations. Players will mostly visit the many dolmens that are scattered across the map. These places represent areas guarded by monsters. Visiting these dolmens will trigger the second main gameplay mode: real time combat. The player takes control of his chosen knight and attempts to defeat the monsters using sword combat similar to Barbarian (Palace Software) or Sword of Sodan. 
+Defeating the monsters rewards the player with treasures from that location. Success will also result in gaining one experience point. These then can be distributed in one of the 3 abilities: Strength, Constitution and Endurance, each to a maximum of 5. 
+ 
+ 
+The required amount of XP needed to advance varies according to the number of human controlled characters. This, combined with some powerful weapons that can be discovered or bought, can boost the player combat abilities. However, the difficulty of the game increases to compensate. 
+The overall objective of exploration is to find the lair that holds one of the four keys. The player who gathers together all four keys (either by finding them or by stealing them from rivals), will have access to the Valley of the Gods at the center of the map. The knight will have to fight against the Guardian in order to win a 'moonstone'. The moonstone corresponds randomly to a lunar phase, and grants the knight more power during that phase. The moonstone must be returned to Stonehenge for the game to be completed. 
+After some days, a dragon will appear and make regular sweeps across the land. In the event that an unskilled player is unfortunate enough to encounter the dragon early on in the game, defeat is almost inevitable. Skilled players, however, should be able to take advantage of the dragon's weak spot, granting them victory regardless of their current stats. The dragon's weak spot is its neck; a successful blow to the neck will render it unable to move for a short period of time. A successive series of upward thrusts from underneath the dragon makes it unable to move, as each stab stuns the dragon long enough for the knight to recover and deliver yet another attack. 
+ 
+Source: Wikipedia 

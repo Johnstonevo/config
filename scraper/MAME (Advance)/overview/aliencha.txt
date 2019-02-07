@@ -1,0 +1,1 @@
+A one-on-one fighting game from IGS. Eight selectable characters and one end boss.

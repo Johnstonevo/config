@@ -1,0 +1,1 @@
+Spectrum 2000 (c) 2000 YONA Tech.  - TECHNICAL -  Main CPU : 68000 (@ 12 Mhz), Z80 (@ 4 Mhz) Sound Chips : (2x) OKI6295 (@ 7.575 Khz)  Screen orientation : Horizontal Video resolution : 240 x 224 pixels Screen refresh : 56.00 Hz Palette colors : 768  Play

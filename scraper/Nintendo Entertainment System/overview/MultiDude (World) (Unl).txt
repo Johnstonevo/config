@@ -1,0 +1,1 @@
+Robots with different control schemes must work together to solve each puzzle, with the freedom to switch between them at any time.

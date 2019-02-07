@@ -1,0 +1,1 @@
+The Weakest Link is an interactive adaptation of the NBC game show made famous by host Anne Robinson's cold, no-nonsense demeanor and catchphrase, "You are the weakest link. Goodbye!" Robinson contributes to the game through video clips and voiceovers, while the actual gameplay is rendered using polygon graphics. 

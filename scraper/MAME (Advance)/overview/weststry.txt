@@ -1,0 +1,1 @@
+The setting is the Wild West where the player moves a cross hairs and shoot at objects on a stationary screen. The player character can duck and roll along a one dimensional plane. A boss must be defeated before advancing to the next level.

@@ -1,0 +1,1 @@
+A one-on-one fighting game featuring ten horror-themed characters, such as werewolves, mummies, vampires, etc. duking it out Street Fighter style. After defeating nine standard opponents, two end bosses must be beaten before the game is completed.

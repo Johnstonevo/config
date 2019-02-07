@@ -1,0 +1,1 @@
+Em Astrowar seu objetivo é destruir todos os asteroides que surgem na tela, caso um deles passe por você, serão descontados pontos 

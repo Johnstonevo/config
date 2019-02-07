@@ -1,0 +1,1 @@
+The purpose of the game to run around various levels and to set traps, which are invisible to your opponent. Players can shoot at one another while setting traps. Each character has a different melee weapon with unique attributes. 

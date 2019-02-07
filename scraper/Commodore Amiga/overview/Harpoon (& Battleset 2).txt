@@ -1,0 +1,3 @@
+This release of Harpoon includes the original game and its Showdown in the North Atlantic BattleSet, as well as the second BattleSet, The North Atlantic Convoys. 
+ 
+The program itself is updated to support additional BattleSets (that were released later) and the Scenario Editor. 

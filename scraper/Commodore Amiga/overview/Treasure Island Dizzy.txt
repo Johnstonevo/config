@@ -1,0 +1,13 @@
+This game is quite different from its predecessor (Which was only released on the Amstrad CPC, Commodore 64, and ZX Spectrum), with a new inventory system and improved animations. The game notably contains fewer enemies than the previous title. It is more centred around inventory based problem solving. The aim of the game is to solve various puzzles in order to obtain a boat so that Dizzy can return to his friends and family, the Yolkfolk. To do this Dizzy must journey through haunted mines, tree villages, as well as underwater. The game also features a subquest (albeit one essential to completing the game) in which thirty gold coins must be collected. Such subquests were found in many of the sequels. 
+ 
+> The legendary ***Treasure Island Dizzy*** — it’s truly brilliant, probably the best graphics, sound and gameplay you will ever see on the Amiga & ST! Incredible cartoony graphics and many extra puzzles and rooms. 
+> 
+> ***DIZZY’S CARTOON ADVENTURE ON TREASURE ISLAND!*** Explore the mysterious Island’s deserted Tree House Village. Fabulous Gold Mines. Huge Caves. Magic Shops and ***Secret Treasure!*** You can even go under water but remember your snorkel! 
+> 
+> Dizzy’s Treasure Island is ***brilliant*** — it’s like a real cartoon but with amazing gameplay. David Darling 
+> 
+> -- back of box 
+ 
+Critics consider this one of the most difficult Dizzy games as the energy bar system of later titles was not yet implemented and Dizzy is provided with only one life—contrasting with five in the first game and three in [Fantasy World Dizzy](/amiga/fantasy-world-dizzy), the immediate sequel, and most subsequent titles. Also unique to this game, the player is unable to select any particular item from the inventory for use—Dizzy simply puts down whichever item is at the top of the list. If Dizzy is underwater and the snorkel happens to be at the top of the inventory list, he will drop the snorkel when the player collects another item and instantly die. Treasure Island Dizzy therefore requires more foresight and planning than the other games in the series. 
+ 
+Adding to the difficulty of the game was the fact that the player had two main tasks to complete; the escape from the islands, and the collection of the thirty coins. Indeed, upon escaping the final island, the Shopkeeper character appears and tells Dizzy that he cannot leave without finding all thirty coins. Given that a number of the coins were hidden behind scenery and in enemies, this second task proved to be more difficult than the main game. Commodore Format printed a "complete" solution and map which did not include the hidden coins, frustrating many a player. 

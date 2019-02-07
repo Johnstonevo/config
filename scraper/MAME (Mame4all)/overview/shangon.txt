@@ -1,0 +1,1 @@
+Home version of the Sega arcade classic featuring Roland MT-32 MIDI sound.

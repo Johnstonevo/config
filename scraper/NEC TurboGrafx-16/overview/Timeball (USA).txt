@@ -1,0 +1,1 @@
+Timeball is a puzzle game with similarities to sliding block puzzles. Each level is composed of a number of tiles and every one has a part of a pipe (straight or angular) on it - except one which is just a black hole. In one tile a red ball starts rolling 

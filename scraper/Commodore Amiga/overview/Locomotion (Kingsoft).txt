@@ -1,0 +1,7 @@
+Locomotion is a puzzle game (some would say simulation) featuring a series of small, poorly-designed train networks. Each consists of six or seven lettered depots, and a maze of single-lane tracks linking them. As the network's signalman, your job is to make sure the dozen or so trains that make deliveries between them get to their destinations safely. No mean feat when you consider that the tracks can only support one train in any place at any one time. Clever use of loops and diversions is called for a times of trouble, and there are more than enough of them. 
+ 
+There are eight trains per layout, and you must make a set number of trips within a time-limit before you can progress. You'd think that wiping out a few trains at the start would make lifer easier, but time is so tight that even if you are just one train short it can prove disastrous. The game is well presented, with a clear full-screen display and all the switches for junctions clearly marked. You control the game with the mouse, and clicking the pointer on switches moves the junction sections between their two positions, so there's no clumsy controls to get used to. 
+ 
+Sound is used sparingly, but effectively, with a train whistle to warn you which one is about to begin its journey. 
+ 
+Despite such a simple premise, Locomotion is a very tough game to play, and requires the sort of intense concentration that makes the veins stick out of your forehead. Simple stuff, but fairly entertaining nevertheless. 

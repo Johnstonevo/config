@@ -1,0 +1,33 @@
+This is an Atari 2600 version of a Star Trek game found on many college mainframes. 
+ 
+Like those mainframe programs, it has no graphics, only text. You use the joystick, moving left or right, to select the command you want then press the red button. You then move the joystick left or right to select set the parameters of that command, if there are any. You start by pressing Reset or Select to choose how many enemies you must kill in how many stardates.  
+ 
+The commands and any settings are as follows: 
+ 
+Galaxy Map=a 6x6 grid that starts out empty until you do a long range scan. Afterwards, the quadrants will show a 2 digit number. The left digit is the number of aliens in the area. The right digit will either be a 1 or a zero, depending on whether there is or is not a starbase in that area. Galaxy map costs you no energy or stardates. 
+ 
+LR Scan=Long range scan. This will tell you what is in your quadrant and all the quadrants next to yours. If there are any enemies in your quadrant when you do an LR scan, they will attack you. LR scan does not cost energy or stardates but it does take a turn. 
+ 
+SR Scan=Short range scan. This shows you the stars, aliens and starbases in your quadrant. You need to do this to destroy aliens and dock with starbases. Like LR Scan, if there are aliens in your quadrant, they will attack after you use SR Scan. Also, like LR Scan, SR Scan does not cost energy or stardates but it does take a turn. 
+ 
+Warp=Warp is how you move, either from quadrant to quadrant or from sector to sector within a quadrant. You move by setting 2 settings. The first is your direction. You select a direction based on the numbers below: 
+8 1 2 
+ 
+/ 
+7--*--3 
+/  
+ 
+6 5 4 
+Next, you select how many quadrants and sectors to move. If you want to move within a quadrant, set the left number to zero so you don't warp out of that quadrant. Warp uses stardates, energy and a turn. If you warp into a quadrant that has only you and stars, the screen will be green. If you warp into a quadrant with aliens or aliens and a starbase, the screen will be red. If you warp into a quadrant with just the starbase, the screen will be gray. You cannot warp through stars. If you try, you lose the stardate and energy but don't go anywhere. 
+ 
+Photon Torpedo=If you hit an enemy with one of these, just one shot kills them. You select the direction with the same numbers as warp. there must be a clear line of sight between you and the enemy; no stars. You carry up to 9 torpedoes and they can be replenished. Photon torpedoes do not cost energy or time, just a turn. 
+ 
+Phasers=Unlike photon torpedoes, you do not need to be directly in line of the enemy or tell the game where to fire. You just set how strong you want the blast to be, via a three digit number, and the computer fires. The closer you are to the enemy, the harder you hit. Phasers use the amount of energy from you as you fired. You also use a turn. 
+ 
+Status=A status report. This will tell you how many stardates, aliens, energy units and photon torpedoes are left and whether you have taken damage and to what. If you have taken damage, you will see a negative number next to the damaged item. This is how many stardates it will take to repair the item on your own. You cannot leave the quadrant if your engines are damaged. Instead, you must try to warp the number of quadrants that would take that much time. You won't go anywhere but you will repair. 
+ 
+If you dock at a starbase, you are instantly repaired of all damage, refueled and torpedoes are restocked. Starbases are placed randomly in the galaxy and never move or get destroyed. There are always two per galaxy. To dock, warp to the quadrant and sector where the base is, so you over the top of it. 
+ 
+Skill (Difficulty) switches 
+The right switch controls how easily you take damage. In the Expert (A) position, your chance of taking damage is twice as likely as in the Novice (B) position. 
+The left switch controls phaser strength. In the Novice (B) position, your phasers are twice as strong as the aliens'. In the Expert (A) position, your phasers are the same strength as the aliens'. 

@@ -1,0 +1,3 @@
+Duke Nukem 3D is a port of the PC's Duke Nukem 3D, for the Mega Drive, created by SEGA's official Brazilian distributor Tec Toy and released exclusively in Brazil. 
+ 
+The gameplay is fundamentally the same and has the player blasting invading aliens from Duke's point of view. This version has nine levels based off the PC's Lunar Apocalypse episode, and a range of enemies and weapons from the original game. The difficulty has been raised significantly, and the framerate is noticeably reduced. The port also makes heavy use of scanlines and a smaller window size to reduce the overall render load. 

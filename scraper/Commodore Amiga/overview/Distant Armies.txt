@@ -1,0 +1,7 @@
+Think you've played chess before? Even those who are experts at computer chess should take a look at this game. Modern chess is only one variant offered—it has 10 versions of chess rolled onto one disk. Beginning in modern era, the program works its way back in time. The authors mined gaming history books for versions of chess that most people have probably never heard of, both modern and ancient varieties. 
+ 
+The list of chess variants included are: Shatranj, Medieval Chess, Turkish Chess, Decimal Chess, Los Alamos Chess, Courier Chess, Chaturanga, Chinese Chess, Burmese Chess, and Byzantine Chess. 
+ 
+The oldest game on the disk is Chaturanga, a variant invented more than 1000 years ago in India. More recent versions include Medieval and Turkish Chess, played in the middle ages. Decimal Chess, which has a piece that combines a knight and a queen, is a modern variant of an older game. The newest game of the group is Los Alamos Chess, which was designed to run on a MANIAC I computer with a 6x6 board. Strangest looking of the games is Byzantine chess, which has a circular chess board. 
+ 
+This is not just a chess game; it is more of a survey of chess history. The authors provide the histories of the games to place them into context with modern chess. They show how chess changed as it moved across cultures. They cover the basics of chess—the rules, moves—and give players a glossary with chess terms. Finally, they include a bibliography for those who want in-depth information. 

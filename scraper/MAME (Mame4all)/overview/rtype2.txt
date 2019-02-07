@@ -1,0 +1,1 @@
+- TIPS AND TRICKS -* Invincibility:Pause game play, then hold the Left Mouse Button + [F1]. Release the key and button. The screen will turn green to confirm correct code entry. Press P to resume game play.* Unlimited continues:Enter SISUMI as a name at the high score screen.

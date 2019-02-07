@@ -1,0 +1,3 @@
+Sengoku Mahjong is set during the Warring States period of Japan, a tumultuous time when various warlords competed to rule the country. In this game, they do so by conquering their rivals at Mahjong. 
+ 
+As with most other Mahjong simulators, this is an accurate portrayal of the classic Chinese board game, complete with detailed tiles and animated character portraits. It is four player, though two players are obscured by the sides of the screen (the player can move the camera to see their tile walls, but not the tiles themselves). As per usual Mahjong rules, the first player to put together a winning hand - either from the tiles they collect at the start of each turn or the discarded tiles of other players - wins the game. 

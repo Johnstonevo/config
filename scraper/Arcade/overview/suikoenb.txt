@@ -1,0 +1,1 @@
+Sony PlayStation port of Suiko Enbu. It includes the 'Arcade Mode' and a new 'Special Mode' that adds or simplifies moves, in addition to adding Desperation Moves when a character's lifebar is flashing. Special Mode also enables the use of the final boss, Chougai, as well as Mizoguchi from the Fighter's History series, who makes a guest appearance.

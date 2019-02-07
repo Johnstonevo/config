@@ -1,0 +1,3 @@
+SlamScape is a 3D shooting game set in a surreal world of bomb-throwing ferris wheels, deadly teddy bears, exploding balloons, bottled brains on unicycles and a Scary-Go-Round, a spinning seagull named Gullicopter, a monstrous creation called Crabzilla and other bizarre enemies. 
+ 
+Your objective is to pilot a rocket-mounted pile driver called a Slamjet while shooting, blasting, smashing and jumping anything and everything you see throughout four dangerous regions. Derived from your subconscious, the regions contain four heavily guarded Orb-Ids needed for level progression. Once obtained, you'll then take the orbs to a central location within that level. You must employ a different strategy for each orb you wish to obtain. 

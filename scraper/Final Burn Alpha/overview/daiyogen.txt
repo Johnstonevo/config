@@ -1,0 +1,1 @@
+A mahjong game with a tarot card theme and random bonus items.

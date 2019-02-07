@@ -1,0 +1,10 @@
+The world's youngest superhero, Pajama Sam, is back in his third adventure, Pajama Sam: You Are What You Eat From Your Head to Your Feet. Serious trouble is brewing on Mop Top Island as the food groups battle for supremacy. The fats and the sweets are forcing the healthy foods off the island and are quickly increasing their numbers in an attempt to take control. To regain order, an emergency Peace Conference has been called to work out a compromise between all the food groups. Compounding the problem is the disappearance of four of the six delegates.  
+ 
+It's up to Pajama Sam to find the missing delegates and save the day. Along the way, Pajama Sam interacts with many comical characters such as General Beetfoot, the commander in chief of the healthy food groups, Florette, the intelligent broccoli, Granny Smythe, the elderly green apple with so many stories, Sprinkle, a gentle doughnut, Bean Number 47, the distinguished kidney bean, and Zak Zuke, a zucchini with a knack for guessing weight.  
+ 
+Pajama Sam: You Are What You Eat From Your Head to Your Feet focuses on strategic thinking and developing decision making skills. Children find puzzles and play mini arcade-style games throughout the story. They unclog a pipe at the Funny Bone, create punch lines to Mickey Hollandaise's already bad jokes, hop on spinning walnuts to keep from getting dunked in the caramel pit, and search the library for an important manual without getting caught by the cranky garlic librarian..  
+ 
+Features:  
+boxart cartart flyer gamelist.xml marquee mb_convert.sh snap temp.xml wheel Help Sam search for clues and solve problems  
+boxart cartart flyer gamelist.xml marquee mb_convert.sh snap temp.xml wheel Join Pajama Sam on Mop Top Island where food can walk, talk and even tell jokes  
+boxart cartart flyer gamelist.xml marquee mb_convert.sh snap temp.xml wheel It's a different game each time you play 

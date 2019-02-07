@@ -1,0 +1,1 @@
+Amazing Penguin is a maze-type game that involves waddling across intersecting lines. Located on each line are two types of orbs: solid black, or transparent with a minus sign in the center. Your goal is to clear the orbs while avoiding contact with a gro 

@@ -1,0 +1,1 @@
+A horizontally scrolling shooter from the makers of R*Type.

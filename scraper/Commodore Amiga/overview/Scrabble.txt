@@ -1,0 +1,3 @@
+Scrabble is a licensed version of the popular Spear's game developed by U.S. Gold Ltd.  
+ 
+Scrabble is a word game for 2 - 4 players. It is played by forming inter-locking words, cross-word style, on a Scrabble playing board. The Scrabble board is a grid on which there are bonus squares, playing a letter on one of these squares doubles or triples the score for either the letter or the entire word. Players have seven letters, or tiles, each and at the end of each turn they take new letters from a pile, unseen, to replace the letters used. 

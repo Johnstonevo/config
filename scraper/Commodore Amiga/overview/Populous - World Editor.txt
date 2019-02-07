@@ -1,0 +1,1 @@
+Populous: World Editor is an add-on for Populous. It is a construction set which allows one to create new art designs to give the existing levels a different look and theme. Other features are the possibility to import graphics and edit other parameters, like the amount of mana production or how hazardous the environments are. The add-on comes with a few pre-defined themes. 

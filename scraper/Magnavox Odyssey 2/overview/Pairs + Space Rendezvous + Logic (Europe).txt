@@ -1,0 +1,7 @@
+Three games are available in this compilation: 
+ 
+1. Pairs (selected by pressing "1") is the same game as Matchmaker!, a regular Memory game. A matrix with 20 letters appears on the screen and the player has to find pairs of symbols hidden by the letters. Two counters will be displayed: time and number of matches. In two players mode (selected by pressing "2"), the players share the matrix and the one who makes more matches win. 
+ 
+2. Space Rendezvous (selected by pressing "3") is somewhat similar to Lunar Lander. Two players have to try to link up their spaceships to the orbiting mother ship, while avoiding hitting the ground. Each ship has 50 megajoules of power and will be refueled when a perfect link-up is performed. A counter will be displayed for each player, and wins the player who first performs 10 perfect link-ups. If one player goes out of fuel, he's out of game. 
+ 
+3. Logic (selected by pressing "4") is the same game as Logix!. The player has to guess a sequence of five different digits. The player types in the first try and the computer will display a two digit number with the number of correct digits to the right and the number of correctly placed digits on the left. The player has then to continue guessing the sequence based on the clues given. The object is to solve the problem in the least number of tries, counted on the left on the screen. 

@@ -1,0 +1,1 @@
+The Player controls a funny Jester who runs diagonally across a isometric level board and must coloring and fill up all the tiles, also some tiles can flashing and the character must touching it to receive immunity for a short time, while evade or shoot marbles to defend from the enemies and go to the next level.
