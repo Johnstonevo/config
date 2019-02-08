@@ -1,1 +1,97 @@
 
+emulators/Arcade.cfg
+emulators/Atari 2600.cfg
+emulators/Atari 5200.cfg
+emulators/Atari 7800.cfg
+emulators/Atari 8-Bit.cfg
+emulators/Atari Lynx.cfg
+emulators/Bandai Sufami Turbo.cfg
+emulators/Final Burn Alpha.cfg
+emulators/GCE Vectrex.cfg
+emulators/MAME (2010).cfg
+emulators/MAME (2014).cfg
+emulators/MAME (2016).cfg
+emulators/MAME.cfg
+emulators/MAME (Libretro).cfg
+emulators/MAME (Mame4all).cfg
+emulators/NEC PC Engine-CD.cfg
+emulators/NEC PC Engine.cfg
+emulators/NEC TurboGrafx-16.cfg
+emulators/NEC TurboGrafx-CD.cfg
+emulators/Nintendo 64.cfg
+emulators/Nintendo 64DD.cfg
+emulators/Nintendo 64 Japan.cfg
+emulators/Nintendo Entertainment System.cfg
+emulators/Nintendo Entertainment System Hacks.cfg
+emulators/Nintendo Famicom.cfg
+emulators/Nintendo Famicom Disk System.cfg
+emulators/Nintendo Game Boy Advance.cfg
+emulators/Nintendo Game Boy.cfg
+emulators/Nintendo Game Boy Color.cfg
+emulators/Nintendo Satellaview.cfg
+emulators/Nintendo Super Famicom.cfg
+emulators/PC Engine SuperGrafx .cfg
+emulators/RetroPie.cfg
+emulators/Sega 32X.cfg
+emulators/Sega CD Mega-CD.cfg
+emulators/Sega Dreamcast.cfg
+emulators/Sega Game Gear.cfg
+emulators/Sega Genesis.cfg
+emulators/Sega Genesis Hacks.cfg
+emulators/Sega Mark III.cfg
+emulators/Sega Master System.cfg
+emulators/Sega Mega Drive.cfg
+emulators/Sega Mega Drive Japan.cfg
+emulators/Sega SC-3000.cfg
+emulators/Sega SG-1000.cfg
+emulators/SNK Neo Geo AES.cfg
+emulators/SNK Neo Geo Pocket.cfg
+emulators/SNK Neo Geo Pocket Color.cfg
+emulators/Sony PlayStation.cfg
+emulators/Sony PlayStation Japan.cfg
+emulators/Super Nintendo Entertainment System.cfg
+emulators/Super Nintendo Entertainment System Hacks.cfg
+emulators/Super Nintendo Entertainment System MSU-1.cfg
+emulators/templates
+emulators/ZX Spectrum.cfg
+romlists/Atari 2600.txt
+romlists/Atari 5200.txt
+romlists/Atari 7800.txt
+romlists/Atari 8-Bit.txt
+romlists/Atari Lynx.txt
+romlists/Bandai Sufami Turbo.txt
+romlists/Final Burn Alpha.txt
+romlists/MAME (Libretro).txt
+romlists/MAME.txt
+romlists/NEC PC Engine-CD.txt
+romlists/NEC PC Engine.txt
+romlists/NEC TurboGrafx-16.txt
+romlists/NEC TurboGrafx-CD.txt
+romlists/Nintendo 64DD.txt
+romlists/Nintendo 64 Japan.txt
+romlists/Nintendo 64.txt
+romlists/Nintendo Entertainment System.txt
+romlists/Nintendo Famicom Disk System.txt
+romlists/Nintendo Famicom.txt
+romlists/Nintendo Game Boy Advance.txt
+romlists/Nintendo Game Boy Color.txt
+romlists/Nintendo Game Boy.txt
+romlists/Nintendo Super Famicom.txt
+romlists/PC Engine SuperGrafx .txt
+romlists/RetroPie.txt
+romlists/Sega 32X.txt
+romlists/Sega Dreamcast.txt
+romlists/Sega Game Gear.txt
+romlists/Sega Genesis Hacks.txt
+romlists/Sega Mark III.txt
+romlists/Sega Master System.txt
+romlists/Sega Mega Drive Japan.txt
+romlists/Sega Mega Drive.txt
+romlists/Sony PlayStation.txt
+romlists/Super Nintendo Entertainment System Hacks.txt
+romlists/Super Nintendo Entertainment System MSU-1.txt
+romlists/Super Nintendo Entertainment System.txt
+romlists/ZX Spectrum.txt
+attract.cfg
+./emulators/*
+./romlists/*
