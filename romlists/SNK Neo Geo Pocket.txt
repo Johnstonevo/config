@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Baseball Stars (Japan, Europe);Baseball Stars (Japan, Europe);SNK Neo Geo Pocket;;1998;SNK;Baseball/Sports;;;;;0;;;;;
+Dokodemo Mahjong (Japan);Dokodemo Mahjong (Japan);SNK Neo Geo Pocket;;1999;ADK;Mahjong;;;;;0;;;;;
+King of Fighters R-1 (Japan, Europe);King of Fighters R-1 (Japan, Europe);SNK Neo Geo Pocket;;1999;SNK;Fighter;;;;;0;;;;;
+Melon-chan no Seichou Nikki (Japan);Melon-chan no Seichou Nikki (Japan);SNK Neo Geo Pocket;;1998;ADK;Simulation;;;;;0;;;;;
+Neo Cherry Master - Real Casino Series (Japan, Europe);Neo Cherry Master - Real Casino Series (Japan, Europe);SNK Neo Geo Pocket;;1999;DYNA;Casino;;;;;0;;;;;
+Neo Geo Cup '98 (Japan, Europe);Neo Geo Cup '98 (Japan, Europe);SNK Neo Geo Pocket;;1999;SNK;Soccer/Sports;;;;;0;;;;;
+Pocket Tennis - Pocket Sports Series (Japan, Europe);Pocket Tennis - Pocket Sports Series (Japan, Europe);SNK Neo Geo Pocket;;1999;SNK;Tennis/Sports;;;;;0;;;;;
+Renketsu Puzzle Tsunagete Pon! (Japan);Renketsu Puzzle Tsunagete Pon! (Japan);SNK Neo Geo Pocket;;1999;SNK;Puzzle;;;;;0;;;;;
+Samurai Shodown! - Pocket Fighting Series (Japan, Europe);Samurai Shodown! - Pocket Fighting Series (Japan, Europe);SNK Neo Geo Pocket;;1998;SNK;Fighter;;;;;0;;;;;
+Shougi no Tatsujin (Japan);Shougi no Tatsujin (Japan);SNK Neo Geo Pocket;;1999;SNK;Strategy;;;;;0;;;;;

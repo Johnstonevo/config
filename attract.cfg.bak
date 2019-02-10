@@ -524,10 +524,29 @@ plugin	ResFix
 
 plugin	MultiMon
 	enabled              yes
+
+
+display	Arcades
+	layout               HP2-Arcade-Menu
+	romlist              Arcades
+	in_cycle             no
+	in_menu              yes
+
+display	Consoles
+	layout               HP2-Systems-Menu
+	romlist              Consoles
+	in_cycle             no
+	in_menu              yes
+
+display	Computers
+	layout               HP2-Systems-Menu
+	romlist              Computers
+	in_cycle             no
+	in_menu              yes
 	
-display	Arcade
+display	AdvMAME
 	layout               HP2-Refried-Arcades
-	romlist              Arcade
+	romlist              AdvMAME
 	in_cycle             no
 	in_menu              no
 	global_filter
@@ -607,4 +626,2048 @@ display	Arcade
 		rule                    Manufacturer contains bootleg
 	filter              Prototype
 		rule                    Title contains prototype
+	
+	
+display	Emerson Arcadia 2001
+	layout               HP2-Refried-Basic
+	romlist              Emerson Arcadia 2001
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Bally Astrocade
+	layout               HP2-Refried-Basic
+	romlist              Bally Astrocade
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Acorn BBC Micro
+	layout               HP2-Refried-Basic
+	romlist              Acorn BBC Micro
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Fairchild Channel F
+	layout               HP2-Refried-Basic
+	romlist              Fairchild Channel F
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Acorn Electron
+	layout               HP2-Refried-Basic
+	romlist              Acorn Electron
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Watara Supervision
+	layout               HP2-Refried-Basic
+	romlist              Watara Supervision
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Adventure Game Studio
+	layout               HP2-Refried-Basic
+	romlist              Adventure Game Studio
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Atari 8-Bit
+	layout               HP2-Refried-Basic
+	romlist              Atari 8-Bit
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Atari 5200
+	layout               HP2-Refried-Basic
+	romlist              Atari 5200
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Apple Macintosh
+	layout               HP2-Refried-Basic
+	romlist              Apple Macintosh
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Mega Drive
+	layout               HP2-Refried-Basic
+	romlist              Sega Mega Drive
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega CD
+	layout               HP2-Refried-Basic
+	romlist              Sega CD
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega 32X
+	layout               HP2-Refried-Basic
+	romlist              Sega 32X
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo GameCube
+	layout               HP2-Refried-Basic
+	romlist              Nintendo GameCube
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Wii
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Wii
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Microsoft MS-DOS
+	layout               HP2-Refried-Basic
+	romlist              Microsoft MS-DOS
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	ZX Spectrum
+	layout               HP2-Refried-Basic
+	romlist              ZX Spectrum
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	ZMachine/Infocom
+	layout               HP2-Refried-Basic
+	romlist              ZMachine/Infocom
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Commodore Amiga
+	layout               HP2-Refried-Basic
+	romlist              Commodore Amiga
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Atari ST
+	layout               HP2-Refried-Basic
+	romlist              Atari ST
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Intellivision
+	layout               HP2-Refried-Basic
+	romlist              Intellivision
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Apple II
+	layout               HP2-Refried-Basic
+	romlist              Apple II
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo 64
+	layout               HP2-Refried-Basic
+	romlist              Nintendo 64
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo 64 Japan
+	layout               HP2-Refried-Basic
+	romlist              Nintendo 64 Japan
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo 64DD
+	layout               HP2-Refried-Basic
+	romlist              Nintendo 64DD
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Microsoft MSX2+
+	layout               HP2-Refried-Basic
+	romlist              Microsoft MSX2+
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Oric 1
+	layout               HP2-Refried-Basic
+	romlist              Oric 1
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Game Gear
+	layout               HP2-Refried-Basic
+	romlist              Sega Game Gear
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Master System
+	layout               HP2-Refried-Basic
+	romlist              Sega Master System
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sony PSP
+	layout               HP2-Refried-Basic
+	romlist              Sony PSP
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sharp X68000
+	layout               HP2-Refried-Basic
+	romlist              Sharp X68000
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	NEC PC-8801
+	layout               HP2-Refried-Basic
+	romlist              NEC PC-8801
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Dreamcast
+	layout               HP2-Refried-Basic
+	romlist              Sega Dreamcast
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	ResidualVM
+	layout               HP2-Refried-Basic
+	romlist              ResidualVM
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	ScummVM
+	layout               HP2-Refried-Basic
+	romlist              ScummVM
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	trs-80
+	layout               HP2-Refried-Basic
+	romlist              trs-80
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	SAM Coupe
+	layout               HP2-Refried-Basic
+	romlist              SAM Coupe
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Atari 2600
+	layout               HP2-Refried-Basic
+	romlist              Atari 2600
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Stratagus Strategy Engine
+	layout               HP2-Refried-Basic
+	romlist              Stratagus Strategy Engine
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	TI99
+	layout               HP2-Refried-Basic
+	romlist              TI99
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Commodore 64
+	layout               HP2-Refried-Basic
+	romlist              Commodore 64
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Fujitsu FM-7 Series
+	layout               HP2-Refried-Basic
+	romlist              Fujitsu FM-7 Series
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Amstrad CPC
+	layout               HP2-Refried-Basic
+	romlist              Amstrad CPC
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Panasonic 3DO
+	layout               HP2-Refried-Basic
+	romlist              Panasonic 3DO
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	ZX81
+	layout               HP2-Refried-Basic
+	romlist              ZX81
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Atari Lynx
+	layout               HP2-Refried-Basic
+	romlist              Atari Lynx
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	SNK Neo Geo Pocket
+	layout               HP2-Refried-Basic
+	romlist              SNK Neo Geo Pocket
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	SNK Neo Geo Pocket Color
+	layout               HP2-Refried-Basic
+	romlist              SNK Neo Geo Pocket Color
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	NEC PC Engine
+	layout               HP2-Refried-Basic
+	romlist              NEC PC Engine
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	NEC PC Engine-CD
+	layout               HP2-Refried-Basic
+	romlist              NEC PC Engine-CD
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	NEC TurboGrafx-16
+	layout               HP2-Refried-Basic
+	romlist              NEC TurboGrafx-16
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	NEC TurboGrafx-CD
+	layout               HP2-Refried-Basic
+	romlist              NEC TurboGrafx-CD
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	NEC PC-FX
+	layout               HP2-Refried-Basic
+	romlist              NEC PC-FX
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sony PlayStation
+	layout               HP2-Refried-Basic
+	romlist              Sony PlayStation
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sony PlayStation Japan
+	layout               HP2-Refried-Basic
+	romlist              Sony PlayStation Japan
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Saturn
+	layout               HP2-Refried-Basic
+	romlist              Sega Saturn
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Saturn Japan
+	layout               HP2-Refried-Basic
+	romlist              Sega Saturn Japan
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	PC Engine SuperGrafx
+	layout               HP2-Refried-Basic
+	romlist              PC Engine SuperGrafx
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Virtual Boy
+	layout               HP2-Refried-Basic
+	romlist              Virtual Boy
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Bandai WonderSwan
+	layout               HP2-Refried-Basic
+	romlist              Bandai WonderSwan
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Bandai WonderSwan Color
+	layout               HP2-Refried-Basic
+	romlist              Bandai WonderSwan Color
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	ColecoVision
+	layout               HP2-Refried-Basic
+	romlist              ColecoVision
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Super Nintendo Entertainment System
+	layout               HP2-Refried-Basic
+	romlist              Super Nintendo Entertainment System
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Super Famicom
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Super Famicom
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Super Nintendo Entertainment System MSU-1
+	layout               HP2-Refried-Basic
+	romlist              Super Nintendo Entertainment System MSU-1
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Super Nintendo Entertainment System Hacks
+	layout               HP2-Refried-Basic
+	romlist              Super Nintendo Entertainment System Hacks
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Satellaview
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Satellaview
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Bandai Sufami Turbo
+	layout               HP2-Refried-Basic
+	romlist              Bandai Sufami Turbo
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo DS
+	layout               HP2-Refried-Basic
+	romlist              Nintendo DS
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Ports
+	layout               HP2-Refried-Basic
+	romlist              Ports
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Final Burn Alpha
+	layout               HP2-Refried-Arcades
+	romlist              Final Burn Alpha
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzlefi
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+	
+	
+display	SNK Neo Geo AES
+	layout               HP2-Refried-Basic
+	romlist              SNK Neo Geo AES
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Mega Drive Japan
+	layout               HP2-Refried-Basic
+	romlist              Sega Mega Drive Japan
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega SG-1000
+	layout               HP2-Refried-Basic
+	romlist              Sega SG-1000
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Entertainment System
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Entertainment System
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Famicom Disk System
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Famicom Disk System
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Game Boy
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Game Boy
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Game Boy Color
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Game Boy Color
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Genesis
+	layout               HP2-Refried-Basic
+	romlist              Sega Genesis
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Genesis Hacks
+	layout               HP2-Refried-Basic
+	romlist              Sega Genesis Hacks
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega Mark III
+	layout               HP2-Refried-Basic
+	romlist              Sega Mark III
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Sega SC-3000
+	layout               HP2-Refried-Basic
+	romlist              Sega SC-3000
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Game and Watch
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Game and Watch
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	MAME Mame4all
+	layout               HP2-Refried-Arcades
+	romlist              MAME Mame4all
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzlefi
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+	
+	
+display	MAME 2003 PLUS
+	layout               HP2-Refried-Arcades
+	romlist              MAME 2003 PLUS
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzlefi
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+	
+	
+display	MAME 2010
+	layout               HP2-Refried-Arcades
+	romlist              MAME 2010
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzlefi
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+	
+	
+display	MAME 2014
+	layout               HP2-Refried-Arcades
+	romlist              MAME 2014
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzlefi
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+	
+	
+display	MAME 2016
+	layout               HP2-Refried-Arcades
+	romlist              MAME 2016
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzlefi
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+	
+	
+display	MAME CURRENT
+	layout               HP2-Refried-Arcades
+	romlist              MAME CURRENT
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzlefi
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+	
+	
+display	CreatiVision
+	layout               HP2-Refried-Basic
+	romlist              CreatiVision
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	SNK Neo Geo CD
+	layout               HP2-Refried-Basic
+	romlist              SNK Neo Geo CD
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	cdimono1
+	layout               HP2-Refried-Basic
+	romlist              cdimono1
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Game Boy Advance
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Game Boy Advance
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Nintendo Entertainment System Hacks
+	layout               HP2-Refried-Basic
+	romlist              Nintendo Entertainment System Hacks
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Videopac
+	layout               HP2-Refried-Basic
+	romlist              Videopac
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Atari 7800
+	layout               HP2-Refried-Basic
+	romlist              Atari 7800
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	GCE Vectrex
+	layout               HP2-Refried-Basic
+	romlist              GCE Vectrex
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+	
+	
+display	Love
+	layout               HP2-Refried-Basic
+	romlist              Love
+	in_cycle             yes
+	in_menu              yes
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
 	

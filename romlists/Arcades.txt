@@ -1,0 +1,17 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+AdvMAME;AdvMAME;@;;;;;;;;;;;;;;
+Final Burn Alpha;Final Burn Alpha;@;;;;;;;;;;;;;;
+MAME Mame4all;MAME Mame4all;@;;;;;;;;;;;;;;
+MAME 2003 PLUS;MAME 2003 PLUS;@;;;;;;;;;;;;;;
+MAME 2010;MAME 2010;@;;;;;;;;;;;;;;
+MAME 2014;MAME 2014;@;;;;;;;;;;;;;;
+MAME 2016;MAME 2016;@;;;;;;;;;;;;;;
+MAME CURRENT;MAME CURRENT;@;;;;;;;;;;;;;;
+AdvMAME;AdvMAME;@;;;;;;;;;;;;;;
+Final Burn Alpha;Final Burn Alpha;@;;;;;;;;;;;;;;
+MAME Mame4all;MAME Mame4all;@;;;;;;;;;;;;;;
+MAME 2003 PLUS;MAME 2003 PLUS;@;;;;;;;;;;;;;;
+MAME 2010;MAME 2010;@;;;;;;;;;;;;;;
+MAME 2014;MAME 2014;@;;;;;;;;;;;;;;
+MAME 2016;MAME 2016;@;;;;;;;;;;;;;;
+MAME CURRENT;MAME CURRENT;@;;;;;;;;;;;;;;
