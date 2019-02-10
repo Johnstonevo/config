@@ -450,7 +450,7 @@ layout_config	AMHPSetup_Menu
 	param                rtime 1500
 	param                select_bgArt image
 
-layout_config	HP2-Refried-Consoles
+layout_config	HP2-Systems-Menu
 	param                animtimeboxartfade 250
 	param                animtimeboxartflyin 250
 	param                animtimeboxartrotate 250
@@ -500,11 +500,7 @@ intro_config
 	param                detect_aspect No
 	param                layout_rotation none
 	param                play_intro Yes
-	param                video_16x9 intro.mp4
-	param                video_3x4 intro_3x4.mp4
-	param                video_4x3 intro_4x3.mp4
-	param                video_9x16 intro_9x16.mp4
-	param                video_default /home/$USER/.attract/intro/PiStation.mp4
+	param                video_default ./intro/PiStation.mp4
 
 
 plugin	AudioMode
@@ -535,18 +531,42 @@ display	Arcades
 display	Consoles
 	layout               HP2-Systems-Menu
 	romlist              Consoles
-	in_cycle             no
+	in_cycle             yes
 	in_menu              yes
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               Atari
+		sort_by              Name
+		rule                 Name contains Atari
+	filter               Nintendo
+		sort_by              Name
+		rule                 Name contains Nintendo
+	filter               Sega
+		sort_by              Name
+		rule                 Name contains Sega
+	filter               SNK
+		sort_by              Name
+		rule                 Name contains SNK
+	filter               Sony
+		sort_by              Name
+		rule                 Name contains Sony
 
 display	Computers
 	layout               HP2-Systems-Menu
 	romlist              Computers
-	in_cycle             no
+	in_cycle             yes
+	in_menu              yes
+
+display	Not Allocated
+	layout               HP2-Systems-Menu
+	romlist              Others
+	in_cycle             yes
 	in_menu              yes
 	
-display	AdvMAME
-	layout               HP2-Refried-Arcades
-	romlist              AdvMAME
+display	Mame (Advance)
+	layout               HP2-Arcade-Menu
+	romlist              Mame (Advance)
 	in_cycle             no
 	in_menu              no
 	global_filter
@@ -559,6 +579,7 @@ display	AdvMAME
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -629,10 +650,10 @@ display	AdvMAME
 	
 	
 display	Emerson Arcadia 2001
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Emerson Arcadia 2001
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -645,10 +666,10 @@ display	Emerson Arcadia 2001
 	
 	
 display	Bally Astrocade
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Bally Astrocade
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -661,10 +682,10 @@ display	Bally Astrocade
 	
 	
 display	Acorn BBC Micro
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Acorn BBC Micro
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -677,10 +698,10 @@ display	Acorn BBC Micro
 	
 	
 display	Fairchild Channel F
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Fairchild Channel F
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -693,10 +714,10 @@ display	Fairchild Channel F
 	
 	
 display	Acorn Electron
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Acorn Electron
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -709,10 +730,10 @@ display	Acorn Electron
 	
 	
 display	Watara Supervision
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Watara Supervision
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -725,7 +746,7 @@ display	Watara Supervision
 	
 	
 display	Adventure Game Studio
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Adventure Game Studio
 	in_cycle             yes
 	in_menu              yes
@@ -741,10 +762,10 @@ display	Adventure Game Studio
 	
 	
 display	Atari 8-Bit
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Atari 8-Bit
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -757,10 +778,10 @@ display	Atari 8-Bit
 	
 	
 display	Atari 5200
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Atari 5200
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -772,9 +793,9 @@ display	Atari 5200
 		rule                 PlayedCount not_contains 0
 	
 	
-display	Apple Macintosh
-	layout               HP2-Refried-Basic
-	romlist              Apple Macintosh
+display	Macintosh
+	layout               HP2-Systems-Menu
+	romlist              Macintosh
 	in_cycle             yes
 	in_menu              yes
 	global_filter
@@ -789,10 +810,10 @@ display	Apple Macintosh
 	
 	
 display	Sega Mega Drive
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Mega Drive
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -805,10 +826,10 @@ display	Sega Mega Drive
 	
 	
 display	Sega CD
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega CD
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -821,10 +842,10 @@ display	Sega CD
 	
 	
 display	Sega 32X
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega 32X
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -837,10 +858,10 @@ display	Sega 32X
 	
 	
 display	Nintendo GameCube
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo GameCube
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -853,10 +874,10 @@ display	Nintendo GameCube
 	
 	
 display	Nintendo Wii
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Wii
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -869,10 +890,10 @@ display	Nintendo Wii
 	
 	
 display	Microsoft MS-DOS
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Microsoft MS-DOS
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -884,11 +905,11 @@ display	Microsoft MS-DOS
 		rule                 PlayedCount not_contains 0
 	
 	
-display	ZX Spectrum
-	layout               HP2-Refried-Basic
-	romlist              ZX Spectrum
-	in_cycle             yes
-	in_menu              yes
+display	Sinclair ZX Spectrum
+	layout               HP2-Systems-Menu
+	romlist              Sinclair ZX Spectrum
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -901,7 +922,7 @@ display	ZX Spectrum
 	
 	
 display	ZMachine/Infocom
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              ZMachine/Infocom
 	in_cycle             yes
 	in_menu              yes
@@ -917,10 +938,10 @@ display	ZMachine/Infocom
 	
 	
 display	Commodore Amiga
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Commodore Amiga
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -933,10 +954,10 @@ display	Commodore Amiga
 	
 	
 display	Atari ST
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Atari ST
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -949,7 +970,7 @@ display	Atari ST
 	
 	
 display	Intellivision
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Intellivision
 	in_cycle             yes
 	in_menu              yes
@@ -965,10 +986,10 @@ display	Intellivision
 	
 	
 display	Apple II
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Apple II
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -981,10 +1002,10 @@ display	Apple II
 	
 	
 display	Nintendo 64
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo 64
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -997,7 +1018,7 @@ display	Nintendo 64
 	
 	
 display	Nintendo 64 Japan
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo 64 Japan
 	in_cycle             yes
 	in_menu              yes
@@ -1013,10 +1034,10 @@ display	Nintendo 64 Japan
 	
 	
 display	Nintendo 64DD
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo 64DD
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1029,7 +1050,7 @@ display	Nintendo 64DD
 	
 	
 display	Microsoft MSX2+
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Microsoft MSX2+
 	in_cycle             yes
 	in_menu              yes
@@ -1045,7 +1066,7 @@ display	Microsoft MSX2+
 	
 	
 display	Oric 1
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Oric 1
 	in_cycle             yes
 	in_menu              yes
@@ -1061,10 +1082,10 @@ display	Oric 1
 	
 	
 display	Sega Game Gear
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Game Gear
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1077,10 +1098,10 @@ display	Sega Game Gear
 	
 	
 display	Sega Master System
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Master System
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1093,7 +1114,7 @@ display	Sega Master System
 	
 	
 display	Sony PSP
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sony PSP
 	in_cycle             yes
 	in_menu              yes
@@ -1109,10 +1130,10 @@ display	Sony PSP
 	
 	
 display	Sharp X68000
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sharp X68000
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1125,7 +1146,7 @@ display	Sharp X68000
 	
 	
 display	NEC PC-8801
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              NEC PC-8801
 	in_cycle             yes
 	in_menu              yes
@@ -1141,10 +1162,10 @@ display	NEC PC-8801
 	
 	
 display	Sega Dreamcast
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Dreamcast
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1157,7 +1178,7 @@ display	Sega Dreamcast
 	
 	
 display	ResidualVM
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              ResidualVM
 	in_cycle             yes
 	in_menu              yes
@@ -1173,10 +1194,10 @@ display	ResidualVM
 	
 	
 display	ScummVM
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              ScummVM
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1189,7 +1210,7 @@ display	ScummVM
 	
 	
 display	trs-80
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              trs-80
 	in_cycle             yes
 	in_menu              yes
@@ -1205,7 +1226,7 @@ display	trs-80
 	
 	
 display	SAM Coupe
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              SAM Coupe
 	in_cycle             yes
 	in_menu              yes
@@ -1221,10 +1242,10 @@ display	SAM Coupe
 	
 	
 display	Atari 2600
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Atari 2600
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1237,7 +1258,7 @@ display	Atari 2600
 	
 	
 display	Stratagus Strategy Engine
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Stratagus Strategy Engine
 	in_cycle             yes
 	in_menu              yes
@@ -1253,7 +1274,7 @@ display	Stratagus Strategy Engine
 	
 	
 display	TI99
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              TI99
 	in_cycle             yes
 	in_menu              yes
@@ -1269,10 +1290,10 @@ display	TI99
 	
 	
 display	Commodore 64
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Commodore 64
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1285,7 +1306,7 @@ display	Commodore 64
 	
 	
 display	Fujitsu FM-7 Series
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Fujitsu FM-7 Series
 	in_cycle             yes
 	in_menu              yes
@@ -1301,10 +1322,10 @@ display	Fujitsu FM-7 Series
 	
 	
 display	Amstrad CPC
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Amstrad CPC
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1317,10 +1338,10 @@ display	Amstrad CPC
 	
 	
 display	Panasonic 3DO
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Panasonic 3DO
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1333,7 +1354,7 @@ display	Panasonic 3DO
 	
 	
 display	ZX81
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              ZX81
 	in_cycle             yes
 	in_menu              yes
@@ -1349,10 +1370,10 @@ display	ZX81
 	
 	
 display	Atari Lynx
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Atari Lynx
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1365,10 +1386,10 @@ display	Atari Lynx
 	
 	
 display	SNK Neo Geo Pocket
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              SNK Neo Geo Pocket
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1381,10 +1402,10 @@ display	SNK Neo Geo Pocket
 	
 	
 display	SNK Neo Geo Pocket Color
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              SNK Neo Geo Pocket Color
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1397,10 +1418,10 @@ display	SNK Neo Geo Pocket Color
 	
 	
 display	NEC PC Engine
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              NEC PC Engine
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1413,10 +1434,10 @@ display	NEC PC Engine
 	
 	
 display	NEC PC Engine-CD
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              NEC PC Engine-CD
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1429,10 +1450,10 @@ display	NEC PC Engine-CD
 	
 	
 display	NEC TurboGrafx-16
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              NEC TurboGrafx-16
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1445,10 +1466,10 @@ display	NEC TurboGrafx-16
 	
 	
 display	NEC TurboGrafx-CD
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              NEC TurboGrafx-CD
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1461,10 +1482,10 @@ display	NEC TurboGrafx-CD
 	
 	
 display	NEC PC-FX
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              NEC PC-FX
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1477,10 +1498,10 @@ display	NEC PC-FX
 	
 	
 display	Sony PlayStation
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sony PlayStation
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1493,10 +1514,10 @@ display	Sony PlayStation
 	
 	
 display	Sony PlayStation Japan
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sony PlayStation Japan
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1509,10 +1530,10 @@ display	Sony PlayStation Japan
 	
 	
 display	Sega Saturn
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Saturn
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1525,10 +1546,10 @@ display	Sega Saturn
 	
 	
 display	Sega Saturn Japan
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Saturn Japan
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1541,7 +1562,7 @@ display	Sega Saturn Japan
 	
 	
 display	PC Engine SuperGrafx
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              PC Engine SuperGrafx
 	in_cycle             yes
 	in_menu              yes
@@ -1557,7 +1578,7 @@ display	PC Engine SuperGrafx
 	
 	
 display	Virtual Boy
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Virtual Boy
 	in_cycle             yes
 	in_menu              yes
@@ -1573,10 +1594,10 @@ display	Virtual Boy
 	
 	
 display	Bandai WonderSwan
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Bandai WonderSwan
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1589,10 +1610,10 @@ display	Bandai WonderSwan
 	
 	
 display	Bandai WonderSwan Color
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Bandai WonderSwan Color
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1605,10 +1626,10 @@ display	Bandai WonderSwan Color
 	
 	
 display	ColecoVision
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              ColecoVision
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1621,10 +1642,10 @@ display	ColecoVision
 	
 	
 display	Super Nintendo Entertainment System
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Super Nintendo Entertainment System
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1637,10 +1658,10 @@ display	Super Nintendo Entertainment System
 	
 	
 display	Nintendo Super Famicom
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Super Famicom
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1653,7 +1674,7 @@ display	Nintendo Super Famicom
 	
 	
 display	Super Nintendo Entertainment System MSU-1
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Super Nintendo Entertainment System MSU-1
 	in_cycle             yes
 	in_menu              yes
@@ -1669,7 +1690,7 @@ display	Super Nintendo Entertainment System MSU-1
 	
 	
 display	Super Nintendo Entertainment System Hacks
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Super Nintendo Entertainment System Hacks
 	in_cycle             yes
 	in_menu              yes
@@ -1685,10 +1706,10 @@ display	Super Nintendo Entertainment System Hacks
 	
 	
 display	Nintendo Satellaview
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Satellaview
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1701,7 +1722,7 @@ display	Nintendo Satellaview
 	
 	
 display	Bandai Sufami Turbo
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Bandai Sufami Turbo
 	in_cycle             yes
 	in_menu              yes
@@ -1717,10 +1738,10 @@ display	Bandai Sufami Turbo
 	
 	
 display	Nintendo DS
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo DS
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1733,7 +1754,7 @@ display	Nintendo DS
 	
 	
 display	Ports
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Ports
 	in_cycle             yes
 	in_menu              yes
@@ -1749,7 +1770,7 @@ display	Ports
 	
 	
 display	Final Burn Alpha
-	layout               HP2-Refried-Arcades
+	layout               HP2-Arcade-Menu
 	romlist              Final Burn Alpha
 	in_cycle             no
 	in_menu              no
@@ -1763,6 +1784,7 @@ display	Final Burn Alpha
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -1833,10 +1855,10 @@ display	Final Burn Alpha
 	
 	
 display	SNK Neo Geo AES
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              SNK Neo Geo AES
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1849,7 +1871,7 @@ display	SNK Neo Geo AES
 	
 	
 display	Sega Mega Drive Japan
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Mega Drive Japan
 	in_cycle             yes
 	in_menu              yes
@@ -1865,10 +1887,10 @@ display	Sega Mega Drive Japan
 	
 	
 display	Sega SG-1000
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega SG-1000
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1881,10 +1903,10 @@ display	Sega SG-1000
 	
 	
 display	Nintendo Entertainment System
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Entertainment System
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1897,10 +1919,10 @@ display	Nintendo Entertainment System
 	
 	
 display	Nintendo Famicom Disk System
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Famicom Disk System
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1913,10 +1935,10 @@ display	Nintendo Famicom Disk System
 	
 	
 display	Nintendo Game Boy
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Game Boy
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1929,10 +1951,10 @@ display	Nintendo Game Boy
 	
 	
 display	Nintendo Game Boy Color
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Game Boy Color
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1945,10 +1967,10 @@ display	Nintendo Game Boy Color
 	
 	
 display	Sega Genesis
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Genesis
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1961,7 +1983,7 @@ display	Sega Genesis
 	
 	
 display	Sega Genesis Hacks
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Genesis Hacks
 	in_cycle             yes
 	in_menu              yes
@@ -1977,10 +1999,10 @@ display	Sega Genesis Hacks
 	
 	
 display	Sega Mark III
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega Mark III
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -1993,10 +2015,10 @@ display	Sega Mark III
 	
 	
 display	Sega SC-3000
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Sega SC-3000
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -2009,7 +2031,7 @@ display	Sega SC-3000
 	
 	
 display	Nintendo Game and Watch
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Game and Watch
 	in_cycle             yes
 	in_menu              yes
@@ -2025,7 +2047,7 @@ display	Nintendo Game and Watch
 	
 	
 display	MAME Mame4all
-	layout               HP2-Refried-Arcades
+	layout               HP2-Arcade-Menu
 	romlist              MAME Mame4all
 	in_cycle             no
 	in_menu              no
@@ -2039,6 +2061,7 @@ display	MAME Mame4all
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -2109,7 +2132,7 @@ display	MAME Mame4all
 	
 	
 display	MAME 2003 PLUS
-	layout               HP2-Refried-Arcades
+	layout               HP2-Arcade-Menu
 	romlist              MAME 2003 PLUS
 	in_cycle             no
 	in_menu              no
@@ -2123,6 +2146,7 @@ display	MAME 2003 PLUS
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -2193,7 +2217,7 @@ display	MAME 2003 PLUS
 	
 	
 display	MAME 2010
-	layout               HP2-Refried-Arcades
+	layout               HP2-Arcade-Menu
 	romlist              MAME 2010
 	in_cycle             no
 	in_menu              no
@@ -2207,6 +2231,7 @@ display	MAME 2010
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -2277,7 +2302,7 @@ display	MAME 2010
 	
 	
 display	MAME 2014
-	layout               HP2-Refried-Arcades
+	layout               HP2-Arcade-Menu
 	romlist              MAME 2014
 	in_cycle             no
 	in_menu              no
@@ -2291,6 +2316,7 @@ display	MAME 2014
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -2361,7 +2387,7 @@ display	MAME 2014
 	
 	
 display	MAME 2016
-	layout               HP2-Refried-Arcades
+	layout               HP2-Arcade-Menu
 	romlist              MAME 2016
 	in_cycle             no
 	in_menu              no
@@ -2375,6 +2401,7 @@ display	MAME 2016
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -2445,7 +2472,7 @@ display	MAME 2016
 	
 	
 display	MAME CURRENT
-	layout               HP2-Refried-Arcades
+	layout               HP2-Arcade-Menu
 	romlist              MAME CURRENT
 	in_cycle             no
 	in_menu              no
@@ -2459,6 +2486,7 @@ display	MAME CURRENT
 		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
 		rule                    Title not_contains bootleg|prototype
 		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
 	filter              Favourites
 		rule                    Favourite equals 1
 	filter              "Most Played Games"
@@ -2529,7 +2557,7 @@ display	MAME CURRENT
 	
 	
 display	CreatiVision
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              CreatiVision
 	in_cycle             yes
 	in_menu              yes
@@ -2545,10 +2573,10 @@ display	CreatiVision
 	
 	
 display	SNK Neo Geo CD
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              SNK Neo Geo CD
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -2561,7 +2589,7 @@ display	SNK Neo Geo CD
 	
 	
 display	cdimono1
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              cdimono1
 	in_cycle             yes
 	in_menu              yes
@@ -2577,10 +2605,10 @@ display	cdimono1
 	
 	
 display	Nintendo Game Boy Advance
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Game Boy Advance
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -2593,7 +2621,7 @@ display	Nintendo Game Boy Advance
 	
 	
 display	Nintendo Entertainment System Hacks
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Nintendo Entertainment System Hacks
 	in_cycle             yes
 	in_menu              yes
@@ -2609,7 +2637,7 @@ display	Nintendo Entertainment System Hacks
 	
 	
 display	Videopac
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Videopac
 	in_cycle             yes
 	in_menu              yes
@@ -2625,10 +2653,10 @@ display	Videopac
 	
 	
 display	Atari 7800
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Atari 7800
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -2641,10 +2669,10 @@ display	Atari 7800
 	
 	
 display	GCE Vectrex
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              GCE Vectrex
-	in_cycle             yes
-	in_menu              yes
+	in_cycle             no
+	in_menu              no
 	global_filter
 		rule                 FileIsAvailable equals 1
 	filter               All
@@ -2657,7 +2685,7 @@ display	GCE Vectrex
 	
 	
 display	Love
-	layout               HP2-Refried-Basic
+	layout               HP2-Systems-Menu
 	romlist              Love
 	in_cycle             yes
 	in_menu              yes
