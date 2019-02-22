@@ -1,0 +1,22 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Dezaemon 3D [Patched];Dezaemon 3D [Patched];Nintendo 64DD;;;;;;;;;;;;;;
+Dezaemon DD (Japan) (Proto);Dezaemon DD (Japan) (Proto);Nintendo 64DD;;1998;Athena;Miscellaneous;;;;;0;;;;;
+Doshin the Giant (Japan);Doshin the Giant (Japan);Nintendo 64DD;;1999;Nintendo;Simulation;;;;;0;;;;;
+Doshin the Giant (Japan) (Demo);Doshin the Giant (Japan) (Demo);Nintendo 64DD;;1999;Nintendo;Simulation;;;;;0;;;;;
+Doshin the Giant Tinkling Toddler Liberation Front! Assemble (Japan);Doshin the Giant Tinkling Toddler Liberation Front! Assemble (Japan);Nintendo 64DD;;2000;Nintendo;Simulation;;;;;0;;;;;
+F-Zero X + Expansion Kit (Japan);F-Zero X + Expansion Kit (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+F-Zero X Expansion Kit (Japan) (Translated En);F-Zero X Expansion Kit (Japan) (Translated En);Nintendo 64DD;;2000;Nintendo;Driving;;;;;0;;;;;
+Japan Pro Golf Tour 64 (Japan);Japan Pro Golf Tour 64 (Japan);Nintendo 64DD;;2000;Seta;Sports/Golf;;;;;0;;;;;
+Kyojin no Doshin - Kaihou Sensen Chibikko Daishuugou (Japan);Kyojin no Doshin - Kaihou Sensen Chibikko Daishuugou (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+Kyojin no Doshin 1 (Japan);Kyojin no Doshin 1 (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+Kyojin no Doshin 1 (Kiosk Demo) (Japan);Kyojin no Doshin 1 (Kiosk Demo) (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+Mario Artist - Communication Kit (Japan);Mario Artist - Communication Kit (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+Mario Artist - Paint Studio (Japan);Mario Artist - Paint Studio (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+Mario Artist - Polygon Studio (Japan);Mario Artist - Polygon Studio (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+Mario Artist - Talent Studio (Japan);Mario Artist - Talent Studio (Japan);Nintendo 64DD;;;;;;;;;;;;;;
+Mario Artist Communication Kit (Japan);Mario Artist Communication Kit (Japan);Nintendo 64DD;;2000;Nintendo;Multimedia;;;;;0;;;;;
+Mario Artist Paint Studio (Japan);Mario Artist Paint Studio (Japan);Nintendo 64DD;;1999;Nintendo;Multimedia;;;;;0;;;;;
+Mario Artist Polygon Studio (Japan);Mario Artist Polygon Studio (Japan);Nintendo 64DD;;2000;Nintendo;Multimedia;;;;;0;;;;;
+Mario Artist Talent Studio (Japan);Mario Artist Talent Studio (Japan);Nintendo 64DD;;2000;Nintendo;Multimedia;;;;;0;;;;;
+Sim City 64 (Japan);Sim City 64 (Japan);Nintendo 64DD;;2000;Nintendo;Simulation;;;;;0;;;;;
+Super Mario 64 (Japan) (Proto);Super Mario 64 (Japan) (Proto);Nintendo 64DD;;1999;Nintendo;Platform;;;;;0;;;;;

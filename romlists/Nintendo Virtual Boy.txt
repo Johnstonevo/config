@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+3-D Tetris (USA);3-D Tetris (USA);Nintendo Virtual Boy;;1996;Nintendo;Puzzle;;;;;0;;;;;
+Bound High (Unknown) (Proto);Bound High (Unknown) (Proto);Nintendo Virtual Boy;;;;;;;;;;;;;;
+Galactic Pinball (Japan, USA);Galactic Pinball (Japan, USA);Nintendo Virtual Boy;;1995;Nintendo;Pinball;;;;;0;;;;;
+Golf (USA);Golf (USA);Nintendo Virtual Boy;;1995;Nintendo;Sports/Golf;;;;;0;;;;;
+Innsmouth no Yakata (Japan);Innsmouth no Yakata (Japan);Nintendo Virtual Boy;;1995;I'Max;Action;;;;;0;;;;;
+Jack Bros. (USA);Jack Bros. (USA);Nintendo Virtual Boy;;1995;Atlus Co.;Action;;;;;0;;;;;
+Mario Clash (Japan, USA);Mario Clash (Japan, USA);Nintendo Virtual Boy;;1995;Nintendo;Platform;;;;;0;;;;;
+Mario's Tennis (Japan, USA);Mario's Tennis (Japan, USA);Nintendo Virtual Boy;;;;;;;;;;;;;;
+Nester's Funky Bowling (USA);Nester's Funky Bowling (USA);Nintendo Virtual Boy;;;;;;;;;;;;;;
+Niko-chan Battle (Japan) (Proto);Niko-chan Battle (Japan) (Proto);Nintendo Virtual Boy;;;;;;;;;;;;;;
+Panic Bomber (USA);Panic Bomber (USA);Nintendo Virtual Boy;;1995;Hudson;Puzzle;;;;;0;;;;;
+Red Alarm (USA);Red Alarm (USA);Nintendo Virtual Boy;;1995;Nintendo;Shooter;;;;;0;;;;;
+SD Gundam - Dimension War (Japan);SD Gundam - Dimension War (Japan);Nintendo Virtual Boy;;1995;Bandai;Strategy;;;;;0;;;;;
+Space Invaders - Virtual Collection (Japan);Space Invaders - Virtual Collection (Japan);Nintendo Virtual Boy;;1995;Taito;Shooter;;;;;0;;;;;
+Teleroboxer (Japan, USA);Teleroboxer (Japan, USA);Nintendo Virtual Boy;;1995;Nintendo;Sports/Boxing;;;;;0;;;;;
+V-Tetris (Japan);V-Tetris (Japan);Nintendo Virtual Boy;;1995;Bullet-Proof Software;Puzzle;;;;;0;;;;;
+Vertical Force (USA);Vertical Force (USA);Nintendo Virtual Boy;;1995;Nintendo;Shooter;;;;;0;;;;;
+Virtual Bowling (Japan);Virtual Bowling (Japan);Nintendo Virtual Boy;;1995;Ocean Software;Sports/Bowling;;;;;0;;;;;
+Virtual Boy Wario Land (Japan, USA);Virtual Boy Wario Land (Japan, USA);Nintendo Virtual Boy;;1995;Nintendo;Platform;;;;;0;;;;;
+Virtual Fishing (Japan);Virtual Fishing (Japan);Nintendo Virtual Boy;;;;;;;;;;;;;;
+Virtual Lab (Japan);Virtual Lab (Japan);Nintendo Virtual Boy;;1995;J-Wing;Puzzle;;;;;0;;;;;
+Virtual League Baseball (USA);Virtual League Baseball (USA);Nintendo Virtual Boy;;1995;Kemco;Sports/Baseball;;;;;0;;;;;
+Waterworld (USA);Waterworld (USA);Nintendo Virtual Boy;;1995;Ocean;Shooter;;;;;0;;;;;

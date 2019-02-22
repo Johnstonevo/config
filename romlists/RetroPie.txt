@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+bezelproject;bezelproject;RetroPie;;;;;;;;;;;;;;
+bluetooth;Bluetooth;RetroPie;;;;;;;;;;;;;;
+configedit;Configuration Editor;RetroPie;;;;;;;;;;;;;;
+esthemes;ES Themes;RetroPie;;;;;;;;;;;;;;
+filemanager;File Manager;RetroPie;;;;;;;;;;;;;;
+retroarch;Retroarch;RetroPie;;;;;;;;;;;;;;
+retronetplay;RetroArch Net Play;RetroPie;;;;;;;;;;;;;;
+rpsetup;RetroPie Setup;RetroPie;;;;;;;;;;;;;;
+runcommand;Run Command Configuration;RetroPie;;;;;;;;;;;;;;
+showip;Show IP;RetroPie;;;;;;;;;;;;;;
