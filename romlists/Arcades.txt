@@ -1,10 +1,21 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+No Filler Arcade Beat 'n' Hack;No Filler Arcade Beat 'n' Hack;@;Beat'em Up Collection;;;;;;;;;;;;;
+No Filler Arcade Classic Horizontal;No Filler Arcade Classic Horizontal;@;Arcade;;;;;;;;;;;;;
+No Filler Arcade Classic Vertical;No Filler Arcade Classic Vertical;@;Arcade;;;;;;;;;;;;;
+No Filler Arcade Multiplayer;No Filler Arcade Multiplayer;@;Arcade;;;;;;;;;;;;;
+No Filler Arcade Platformers;No Filler Arcade Platformers;@;Arcade;;;;;;;;;;;;;
+No Filler Arcade Puzzle;No Filler Arcade Puzzle;@;Puzzle Collection;;;;;;;;;;;;;
+No Filler Arcade Run 'n' Gun;No Filler Arcade Run 'n' Gun;@;Run n Gun Collection;;;;;;;;;;;;;
+No Filler Arcade Shoot 'em Ups Horizontal;No Filler Arcade Shoot 'em Ups Horizontal;@;Arcade Shmups;;;;;;;;;;;;;
+No Filler Arcade Shoot 'em Ups Vertical;No Filler Arcade Shoot 'em Ups Vertical;@;Arcade Shmups;;;;;;;;;;;;;
+No Filler Arcade Sports;No Filler Arcade Sports;@;Sports Collection;;;;;;;;;;;;;
+No Filler Arcade Vs Fighter;No Filler Arcade Vs Fighter;@;Fighting Games Collection;;;;;;;;;;;;;
 Arcade;Arcade;@;;;;;;;;;;;;;;
 MAME (Advance);MAME (Advance);@;;;;;;;;;;;;;;
-MAME CURRENT;MAME CURRENT;@;;;;;;;;;;;;;;
+MAME CURRENT;MAME CURRENT;@;Mame;;;;;;;;;;;;;
 Final Burn Alpha;Final Burn Alpha;@;;;;;;;;;;;;;;
-MAME Mame4all;MAME Mame4all;@;;;;;;;;;;;;;;
-MAME 2003 PLUS;MAME 2003 PLUS;@;;;;;;;;;;;;;;
-MAME 2010;MAME 2010;@;;;;;;;;;;;;;;
-MAME 2015;MAME 2015;@;;;;;;;;;;;;;;
-MAME 2016;MAME 2016;@;;;;;;;;;;;;;;
+MAME Mame4all;MAME Mame4all;@;MAME (Mame4all);;;;;;;;;;;;;
+MAME 2003 PLUS;MAME 2003 PLUS;@;MAME (Libretro);;;;;;;;;;;;;
+MAME 2010;MAME 2010;@;MAME (Libretro);;;;;;;;;;;;;
+MAME 2015;MAME 2015;@;MAME (Libretro);;;;;;;;;;;;;
+MAME 2016;MAME 2016;@;MAME (Libretro);;;;;;;;;;;;;

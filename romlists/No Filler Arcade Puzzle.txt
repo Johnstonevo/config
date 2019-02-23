@@ -1,0 +1,385 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);Final Burn Alpha;;1999;Namco;Puzzle / Misc.;;;;;0
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);MAME (Advance);;1999;Namco;Puzzle / Misc.;;;;;0
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);MAME 2003;;1999;Namco;Puzzle / Misc.;;;;;0
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);MAME 2003 PLUS;;1999;Namco;Puzzle / Misc.;;;;;0
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);MAME 2010;;1999;Namco;Puzzle / Misc.;;;;;0
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);MAME 2015;;1999;Namco;Puzzle / Misc.;;;;;0
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);MAME CURRENT;;1999;Namco;Puzzle / Misc.;;;;;0
+aquarush;Aqua Rush (Japan, AQ1/VER.A1);MAME Mame4all;;1999;Namco;Puzzle / Misc.;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);Final Burn Alpha;;1995;Sega;Puzzle / Drop;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);MAME (Advance);;1995;Sega;Puzzle / Drop;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);MAME 2003;;1995;Sega;Puzzle / Drop;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);MAME 2003 PLUS;;1995;Sega;Puzzle / Drop;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);MAME 2010;;1995;Sega;Puzzle / Drop;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);MAME 2015;;1995;Sega;Puzzle / Drop;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);MAME CURRENT;;1995;Sega;Puzzle / Drop;;;;;0
+bakubaku;Baku Baku Animal (J 950407 V1.000);MAME Mame4all;;1995;Sega;Puzzle / Drop;;;;;0
+bangball;Bang Bang Ball (v1.05);Final Burn Alpha;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+bangball;Bang Bang Ball (v1.05);MAME (Advance);;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+bangball;Bang Bang Ball (v1.05);MAME 2003;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+bangball;Bang Bang Ball (v1.05);MAME 2003 PLUS;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+bangball;Bang Bang Ball (v1.05);MAME 2010;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+bangball;Bang Bang Ball (v1.05);MAME 2015;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+bangball;Bang Bang Ball (v1.05);MAME CURRENT;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+bangball;Bang Bang Ball (v1.05);MAME Mame4all;;1996;Banpresto / Kunihiko Tashiro+Goodhouse;Puzzle / Toss;;;;;0
+blockhl;Block Hole;Final Burn Alpha;;1989;Konami;Puzzle / Misc.;;;;;0
+blockhl;Block Hole;MAME (Advance);;1989;Konami;Puzzle / Misc.;;;;;0
+blockhl;Block Hole;MAME 2003;;1989;Konami;Puzzle / Misc.;;;;;0
+blockhl;Block Hole;MAME 2003 PLUS;;1989;Konami;Puzzle / Misc.;;;;;0
+blockhl;Block Hole;MAME 2010;;1989;Konami;Puzzle / Misc.;;;;;0
+blockhl;Block Hole;MAME 2015;;1989;Konami;Puzzle / Misc.;;;;;0
+blockhl;Block Hole;MAME CURRENT;;1989;Konami;Puzzle / Misc.;;;;;0
+blockhl;Block Hole;MAME Mame4all;;1989;Konami;Puzzle / Misc.;;;;;0
+blockout;Block Out (set 1);Final Burn Alpha;;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+blockout;Block Out (set 1);MAME (Advance);;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+blockout;Block Out (set 1);MAME 2003;;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+blockout;Block Out (set 1);MAME 2003 PLUS;;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+blockout;Block Out (set 1);MAME 2010;;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+blockout;Block Out (set 1);MAME 2015;;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+blockout;Block Out (set 1);MAME CURRENT;;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+blockout;Block Out (set 1);MAME Mame4all;;1989;Technos Japan / California Dreams;Puzzle / Drop;;;;;0
+cshift;Chicken Shift;Final Burn Alpha;;1984;Bally/Sente;Puzzle / Maze;;;;;0
+cshift;Chicken Shift;MAME (Advance);;1984;Bally/Sente;Puzzle / Maze;;;;;0
+cshift;Chicken Shift;MAME 2003;;1984;Bally/Sente;Puzzle / Maze;;;;;0
+cshift;Chicken Shift;MAME 2003 PLUS;;1984;Bally/Sente;Puzzle / Maze;;;;;0
+cshift;Chicken Shift;MAME 2010;;1984;Bally/Sente;Puzzle / Maze;;;;;0
+cshift;Chicken Shift;MAME 2015;;1984;Bally/Sente;Puzzle / Maze;;;;;0
+cshift;Chicken Shift;MAME CURRENT;;1984;Bally/Sente;Puzzle / Maze;;;;;0
+cshift;Chicken Shift;MAME Mame4all;;1984;Bally/Sente;Puzzle / Maze;;;;;0
+columns;Columns (World);Final Burn Alpha;;1990;Sega;Puzzle / Drop;;;;;0
+columns;Columns (World);MAME (Advance);;1990;Sega;Puzzle / Drop;;;;;0
+columns;Columns (World);MAME 2003;;1990;Sega;Puzzle / Drop;;;;;0
+columns;Columns (World);MAME 2003 PLUS;;1990;Sega;Puzzle / Drop;;;;;0
+columns;Columns (World);MAME 2010;;1990;Sega;Puzzle / Drop;;;;;0
+columns;Columns (World);MAME 2015;;1990;Sega;Puzzle / Drop;;;;;0
+columns;Columns (World);MAME CURRENT;;1990;Sega;Puzzle / Drop;;;;;0
+columns;Columns (World);MAME Mame4all;;1990;Sega;Puzzle / Drop;;;;;0
+crospang;Cross Pang;Final Burn Alpha;;1998;F2 System;Puzzle / Misc.;;;;;0
+crospang;Cross Pang;MAME (Advance);;1998;F2 System;Puzzle / Misc.;;;;;0
+crospang;Cross Pang;MAME 2003;;1998;F2 System;Puzzle / Misc.;;;;;0
+crospang;Cross Pang;MAME 2003 PLUS;;1998;F2 System;Puzzle / Misc.;;;;;0
+crospang;Cross Pang;MAME 2010;;1998;F2 System;Puzzle / Misc.;;;;;0
+crospang;Cross Pang;MAME 2015;;1998;F2 System;Puzzle / Misc.;;;;;0
+crospang;Cross Pang;MAME CURRENT;;1998;F2 System;Puzzle / Misc.;;;;;0
+crospang;Cross Pang;MAME Mame4all;;1998;F2 System;Puzzle / Misc.;;;;;0
+deroon;Deroon DeroDero;Final Burn Alpha;;1995;Tecmo;Puzzle / Drop;;;;;0
+deroon;Deroon DeroDero;MAME (Advance);;1995;Tecmo;Puzzle / Drop;;;;;0
+deroon;Deroon DeroDero;MAME 2003;;1995;Tecmo;Puzzle / Drop;;;;;0
+deroon;Deroon DeroDero;MAME 2003 PLUS;;1995;Tecmo;Puzzle / Drop;;;;;0
+deroon;Deroon DeroDero;MAME 2010;;1995;Tecmo;Puzzle / Drop;;;;;0
+deroon;Deroon DeroDero;MAME 2015;;1995;Tecmo;Puzzle / Drop;;;;;0
+deroon;Deroon DeroDero;MAME CURRENT;;1995;Tecmo;Puzzle / Drop;;;;;0
+deroon;Deroon DeroDero;MAME Mame4all;;1995;Tecmo;Puzzle / Drop;;;;;0
+dharma;Dharma Doujou;Final Burn Alpha;;1994;Metro;Puzzle / Misc.;;;;;0
+dharma;Dharma Doujou;MAME (Advance);;1994;Metro;Puzzle / Misc.;;;;;0
+dharma;Dharma Doujou;MAME 2003;;1994;Metro;Puzzle / Misc.;;;;;0
+dharma;Dharma Doujou;MAME 2003 PLUS;;1994;Metro;Puzzle / Misc.;;;;;0
+dharma;Dharma Doujou;MAME 2010;;1994;Metro;Puzzle / Misc.;;;;;0
+dharma;Dharma Doujou;MAME 2015;;1994;Metro;Puzzle / Misc.;;;;;0
+dharma;Dharma Doujou;MAME CURRENT;;1994;Metro;Puzzle / Misc.;;;;;0
+dharma;Dharma Doujou;MAME Mame4all;;1994;Metro;Puzzle / Misc.;;;;;0
+emeralda;Emeraldia (World);Final Burn Alpha;;1993;Namco;Puzzle / Drop;;;;;0
+emeralda;Emeraldia (World);MAME (Advance);;1993;Namco;Puzzle / Drop;;;;;0
+emeralda;Emeraldia (World);MAME 2003;;1993;Namco;Puzzle / Drop;;;;;0
+emeralda;Emeraldia (World);MAME 2003 PLUS;;1993;Namco;Puzzle / Drop;;;;;0
+emeralda;Emeraldia (World);MAME 2010;;1993;Namco;Puzzle / Drop;;;;;0
+emeralda;Emeraldia (World);MAME 2015;;1993;Namco;Puzzle / Drop;;;;;0
+emeralda;Emeraldia (World);MAME CURRENT;;1993;Namco;Puzzle / Drop;;;;;0
+emeralda;Emeraldia (World);MAME Mame4all;;1993;Namco;Puzzle / Drop;;;;;0
+ghostlop;Ghostlop (prototype);Final Burn Alpha;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);Final Burn Alpha;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME (Advance);;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME (Advance);;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2003;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2003;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2003 PLUS;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2003 PLUS;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2010;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2010;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2015;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME 2015;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME CURRENT;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME CURRENT;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME Mame4all;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+ghostlop;Ghostlop (prototype);MAME Mame4all;;1996;Data East Corporation;Puzzle / Toss;;;;;0
+klax;Klax (set 1);Final Burn Alpha;;1989;Atari Games;Puzzle / Drop;;;;;0
+klax;Klax (set 1);MAME (Advance);;1989;Atari Games;Puzzle / Drop;;;;;0
+klax;Klax (set 1);MAME 2003;;1989;Atari Games;Puzzle / Drop;;;;;0
+klax;Klax (set 1);MAME 2003 PLUS;;1989;Atari Games;Puzzle / Drop;;;;;0
+klax;Klax (set 1);MAME 2010;;1989;Atari Games;Puzzle / Drop;;;;;0
+klax;Klax (set 1);MAME 2015;;1989;Atari Games;Puzzle / Drop;;;;;0
+klax;Klax (set 1);MAME CURRENT;;1989;Atari Games;Puzzle / Drop;;;;;0
+klax;Klax (set 1);MAME Mame4all;;1989;Atari Games;Puzzle / Drop;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);Final Burn Alpha;;1998;Taito Corporation;Puzzle / Toss;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);MAME (Advance);;1998;Taito Corporation;Puzzle / Toss;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);MAME 2003;;1998;Taito Corporation;Puzzle / Toss;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);MAME 2003 PLUS;;1998;Taito Corporation;Puzzle / Toss;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);MAME 2010;;1998;Taito Corporation;Puzzle / Toss;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);MAME 2015;;1998;Taito Corporation;Puzzle / Toss;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);MAME CURRENT;;1998;Taito Corporation;Puzzle / Toss;;;;;0
+landmakr;Land Maker (Ver 2.01J 1998/06/01);MAME Mame4all;;1998;Taito Corporation;Puzzle / Toss;;;;;0
+locomotn;Loco-Motion;Final Burn Alpha;;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+locomotn;Loco-Motion;MAME (Advance);;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+locomotn;Loco-Motion;MAME 2003;;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+locomotn;Loco-Motion;MAME 2003 PLUS;;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+locomotn;Loco-Motion;MAME 2010;;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+locomotn;Loco-Motion;MAME 2015;;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+locomotn;Loco-Motion;MAME CURRENT;;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+locomotn;Loco-Motion;MAME Mame4all;;1982;Konami (Centuri license);Puzzle / Sliding;;;;;0
+magdrop3;Magical Drop III;Final Burn Alpha;;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magdrop3;Magical Drop III;MAME (Advance);;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magdrop3;Magical Drop III;MAME 2003;;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magdrop3;Magical Drop III;MAME 2003 PLUS;;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magdrop3;Magical Drop III;MAME 2010;;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magdrop3;Magical Drop III;MAME 2015;;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magdrop3;Magical Drop III;MAME CURRENT;;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magdrop3;Magical Drop III;MAME Mame4all;;1997;Data East Corporation;Puzzle / Toss;;;;;0
+magerror;Magical Error wo Sagase;Final Burn Alpha;;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+magerror;Magical Error wo Sagase;MAME (Advance);;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+magerror;Magical Error wo Sagase;MAME 2003;;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+magerror;Magical Error wo Sagase;MAME 2003 PLUS;;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+magerror;Magical Error wo Sagase;MAME 2010;;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+magerror;Magical Error wo Sagase;MAME 2015;;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+magerror;Magical Error wo Sagase;MAME CURRENT;;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+magerror;Magical Error wo Sagase;MAME Mame4all;;1994;Technosoft / Jaleco;Puzzle / Misc.;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;Final Burn Alpha;;1997;Face;Puzzle / Toss;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;MAME (Advance);;1997;Face;Puzzle / Toss;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;MAME 2003;;1997;Face;Puzzle / Toss;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;MAME 2003 PLUS;;1997;Face;Puzzle / Toss;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;MAME 2010;;1997;Face;Puzzle / Toss;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;MAME 2015;;1997;Face;Puzzle / Toss;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;MAME CURRENT;;1997;Face;Puzzle / Toss;;;;;0
+miexchng;Money Puzzle Exchanger / Money Idol Exchanger;MAME Mame4all;;1997;Face;Puzzle / Toss;;;;;0
+mosaicf2;Mosaic (F2 System);Final Burn Alpha;;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+mosaicf2;Mosaic (F2 System);MAME (Advance);;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+mosaicf2;Mosaic (F2 System);MAME 2003;;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+mosaicf2;Mosaic (F2 System);MAME 2003 PLUS;;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+mosaicf2;Mosaic (F2 System);MAME 2010;;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+mosaicf2;Mosaic (F2 System);MAME 2015;;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+mosaicf2;Mosaic (F2 System);MAME CURRENT;;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+mosaicf2;Mosaic (F2 System);MAME Mame4all;;1999;F2 System;Puzzle / Sliding * Mature *;;;;;0
+motos;Motos;Final Burn Alpha;;1985;Namco;Puzzle / Misc.;;;;;0
+motos;Motos;MAME (Advance);;1985;Namco;Puzzle / Misc.;;;;;0
+motos;Motos;MAME 2003;;1985;Namco;Puzzle / Misc.;;;;;0
+motos;Motos;MAME 2003 PLUS;;1985;Namco;Puzzle / Misc.;;;;;0
+motos;Motos;MAME 2010;;1985;Namco;Puzzle / Misc.;;;;;0
+motos;Motos;MAME 2015;;1985;Namco;Puzzle / Misc.;;;;;0
+motos;Motos;MAME CURRENT;;1985;Namco;Puzzle / Misc.;;;;;0
+motos;Motos;MAME Mame4all;;1985;Namco;Puzzle / Misc.;;;;;0
+msgogo;Mouse Shooter GoGo;Final Burn Alpha;;1995;Metro;Puzzle / Toss;;;;;0
+msgogo;Mouse Shooter GoGo;MAME (Advance);;1995;Metro;Puzzle / Toss;;;;;0
+msgogo;Mouse Shooter GoGo;MAME 2003;;1995;Metro;Puzzle / Toss;;;;;0
+msgogo;Mouse Shooter GoGo;MAME 2003 PLUS;;1995;Metro;Puzzle / Toss;;;;;0
+msgogo;Mouse Shooter GoGo;MAME 2010;;1995;Metro;Puzzle / Toss;;;;;0
+msgogo;Mouse Shooter GoGo;MAME 2015;;1995;Metro;Puzzle / Toss;;;;;0
+msgogo;Mouse Shooter GoGo;MAME CURRENT;;1995;Metro;Puzzle / Toss;;;;;0
+msgogo;Mouse Shooter GoGo;MAME Mame4all;;1995;Metro;Puzzle / Toss;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);Final Burn Alpha;;1999;Namco;Puzzle / Misc.;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);MAME (Advance);;1999;Namco;Puzzle / Misc.;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);MAME 2003;;1999;Namco;Puzzle / Misc.;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);MAME 2003 PLUS;;1999;Namco;Puzzle / Misc.;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);MAME 2010;;1999;Namco;Puzzle / Misc.;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);MAME 2015;;1999;Namco;Puzzle / Misc.;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);MAME CURRENT;;1999;Namco;Puzzle / Misc.;;;;;0
+mrdrillr;Mr. Driller (US, DRI3/VER.A2);MAME Mame4all;;1999;Namco;Puzzle / Misc.;;;;;0
+ohmygod;Oh My God! (Japan);Final Burn Alpha;;1993;Atlus;Puzzle / Drop;;;;;0
+ohmygod;Oh My God! (Japan);MAME (Advance);;1993;Atlus;Puzzle / Drop;;;;;0
+ohmygod;Oh My God! (Japan);MAME 2003;;1993;Atlus;Puzzle / Drop;;;;;0
+ohmygod;Oh My God! (Japan);MAME 2003 PLUS;;1993;Atlus;Puzzle / Drop;;;;;0
+ohmygod;Oh My God! (Japan);MAME 2010;;1993;Atlus;Puzzle / Drop;;;;;0
+ohmygod;Oh My God! (Japan);MAME 2015;;1993;Atlus;Puzzle / Drop;;;;;0
+ohmygod;Oh My God! (Japan);MAME CURRENT;;1993;Atlus;Puzzle / Drop;;;;;0
+ohmygod;Oh My God! (Japan);MAME Mame4all;;1993;Atlus;Puzzle / Drop;;;;;0
+plotting;Plotting (World set 1);Final Burn Alpha;;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+plotting;Plotting (World set 1);MAME (Advance);;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+plotting;Plotting (World set 1);MAME 2003;;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+plotting;Plotting (World set 1);MAME 2003 PLUS;;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+plotting;Plotting (World set 1);MAME 2010;;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+plotting;Plotting (World set 1);MAME 2015;;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+plotting;Plotting (World set 1);MAME CURRENT;;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+plotting;Plotting (World set 1);MAME Mame4all;;1989;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pururun;Pururun;Final Burn Alpha;;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+pururun;Pururun;MAME (Advance);;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+pururun;Pururun;MAME 2003;;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+pururun;Pururun;MAME 2003 PLUS;;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+pururun;Pururun;MAME 2010;;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+pururun;Pururun;MAME 2015;;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+pururun;Pururun;MAME CURRENT;;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+pururun;Pururun;MAME Mame4all;;1995;Metro / Banpresto;Puzzle / Misc.;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);Final Burn Alpha;;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);MAME (Advance);;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);MAME 2003;;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);MAME 2003 PLUS;;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);MAME 2010;;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);MAME 2015;;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);MAME CURRENT;;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puyopuy2;Puyo Puyo 2 (Japan);MAME Mame4all;;1994;Compile (Sega license);Puzzle / Drop;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);Final Burn Alpha;;1998;Mitchell;Puzzle / Toss;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);MAME (Advance);;1998;Mitchell;Puzzle / Toss;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);MAME 2003;;1998;Mitchell;Puzzle / Toss;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);MAME 2003 PLUS;;1998;Mitchell;Puzzle / Toss;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);MAME 2010;;1998;Mitchell;Puzzle / Toss;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);MAME 2015;;1998;Mitchell;Puzzle / Toss;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);MAME CURRENT;;1998;Mitchell;Puzzle / Toss;;;;;0
+puzzloop;Puzz Loop (Europe, v0.94);MAME Mame4all;;1998;Mitchell;Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);Final Burn Alpha;;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);MAME (Advance);;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);MAME 2003;;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);MAME 2003 PLUS;;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);MAME 2010;;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);MAME 2015;;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);MAME CURRENT;;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pzloop2;Puzz Loop 2 (Euro 010302);MAME Mame4all;;2001;Mitchell (Capcom license);Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);Final Burn Alpha;;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);MAME (Advance);;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);MAME 2003;;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);MAME 2003 PLUS;;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);MAME 2010;;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);MAME 2015;;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);MAME CURRENT;;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);MAME Mame4all;;1995;Taito Corporation Japan;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);Final Burn Alpha;;1997;Taito Corporation;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);MAME (Advance);;1997;Taito Corporation;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);MAME 2003;;1997;Taito Corporation;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);MAME 2003 PLUS;;1997;Taito Corporation;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);MAME 2010;;1997;Taito Corporation;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);MAME 2015;;1997;Taito Corporation;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);MAME CURRENT;;1997;Taito Corporation;Puzzle / Toss;;;;;0
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);MAME Mame4all;;1997;Taito Corporation;Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;Final Burn Alpha;;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;MAME (Advance);;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;MAME 2003;;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;MAME 2003 PLUS;;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;MAME 2010;;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;MAME 2015;;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;MAME CURRENT;;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+puzzledp;Puzzle De Pon!;MAME Mame4all;;1995;Taito (Visco license);Puzzle / Toss;;;;;0
+uopoko;Puzzle Uo Poko (International);Final Burn Alpha;;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+uopoko;Puzzle Uo Poko (International);MAME (Advance);;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+uopoko;Puzzle Uo Poko (International);MAME 2003;;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+uopoko;Puzzle Uo Poko (International);MAME 2003 PLUS;;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+uopoko;Puzzle Uo Poko (International);MAME 2010;;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+uopoko;Puzzle Uo Poko (International);MAME 2015;;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+uopoko;Puzzle Uo Poko (International);MAME CURRENT;;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+uopoko;Puzzle Uo Poko (International);MAME Mame4all;;1998;Cave (Jaleco license);Puzzle / Drop;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);Final Burn Alpha;;2005;Cave (AMI license);Puzzle / Match;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);MAME (Advance);;2005;Cave (AMI license);Puzzle / Match;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);MAME 2003;;2005;Cave (AMI license);Puzzle / Match;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);MAME 2003 PLUS;;2005;Cave (AMI license);Puzzle / Match;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);MAME 2010;;2005;Cave (AMI license);Puzzle / Match;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);MAME 2015;;2005;Cave (AMI license);Puzzle / Match;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);MAME CURRENT;;2005;Cave (AMI license);Puzzle / Match;;;;;0
+mushitam;Puzzle! Mushihime-Tama (2005/09/09.MASTER VER);MAME Mame4all;;2005;Cave (AMI license);Puzzle / Match;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);Final Burn Alpha;;1990;SNK;Puzzle / Drop;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);MAME (Advance);;1990;SNK;Puzzle / Drop;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);MAME 2003;;1990;SNK;Puzzle / Drop;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);MAME 2003 PLUS;;1990;SNK;Puzzle / Drop;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);MAME 2010;;1990;SNK;Puzzle / Drop;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);MAME 2015;;1990;SNK;Puzzle / Drop;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);MAME CURRENT;;1990;SNK;Puzzle / Drop;;;;;0
+joyjoy;Puzzled / Joy Joy Kid (NGM-021)(NGH-021);MAME Mame4all;;1990;SNK;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);Final Burn Alpha;;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);MAME (Advance);;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);MAME 2003;;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);MAME 2003 PLUS;;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);MAME 2010;;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);MAME 2015;;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);MAME CURRENT;;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2;Puzzli 2 (ver. 100);MAME Mame4all;;1999;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);Final Burn Alpha;puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);MAME (Advance);puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);MAME 2003;puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);MAME 2003 PLUS;puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);MAME 2010;puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);MAME 2015;puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);MAME CURRENT;puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+puzzli2s;Puzzli 2 Super (ver. 200);MAME Mame4all;puzzli2;2001;IGS;Puzzle / Drop;;;;;0
+qix;Qix (Rev 2);Final Burn Alpha;;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+qix;Qix (Rev 2);MAME (Advance);;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+qix;Qix (Rev 2);MAME 2003;;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+qix;Qix (Rev 2);MAME 2003 PLUS;;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+qix;Qix (Rev 2);MAME 2010;;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+qix;Qix (Rev 2);MAME 2015;;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+qix;Qix (Rev 2);MAME CURRENT;;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+qix;Qix (Rev 2);MAME Mame4all;;1981;Taito America Corporation;Puzzle / Outline;;;;;0
+riskchal;Risky Challenge;Final Burn Alpha;;1993;Irem;Puzzle / Drop;;;;;0
+riskchal;Risky Challenge;MAME (Advance);;1993;Irem;Puzzle / Drop;;;;;0
+riskchal;Risky Challenge;MAME 2003;;1993;Irem;Puzzle / Drop;;;;;0
+riskchal;Risky Challenge;MAME 2003 PLUS;;1993;Irem;Puzzle / Drop;;;;;0
+riskchal;Risky Challenge;MAME 2010;;1993;Irem;Puzzle / Drop;;;;;0
+riskchal;Risky Challenge;MAME 2015;;1993;Irem;Puzzle / Drop;;;;;0
+riskchal;Risky Challenge;MAME CURRENT;;1993;Irem;Puzzle / Drop;;;;;0
+riskchal;Risky Challenge;MAME Mame4all;;1993;Irem;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);Final Burn Alpha;;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);MAME (Advance);;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);MAME 2003;;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);MAME 2003 PLUS;;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);MAME 2010;;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);MAME 2015;;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);MAME CURRENT;;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+senkyu;Senkyu (Japan set 1);MAME Mame4all;;1995;Seibu Kaihatsu;Puzzle / Drop;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);Final Burn Alpha;;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);MAME (Advance);;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);MAME 2003;;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);MAME 2003 PLUS;;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);MAME 2010;;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);MAME 2015;;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);MAME CURRENT;;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+ar_spot;Spot (Arcadia, V 2.0);MAME Mame4all;;1990;Arcadia Systems;Tabletop / Misc.;;;;;0
+spang;Super Pang (World 900914);Final Burn Alpha;;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spang;Super Pang (World 900914);MAME (Advance);;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spang;Super Pang (World 900914);MAME 2003;;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spang;Super Pang (World 900914);MAME 2003 PLUS;;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spang;Super Pang (World 900914);MAME 2010;;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spang;Super Pang (World 900914);MAME 2015;;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spang;Super Pang (World 900914);MAME CURRENT;;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spang;Super Pang (World 900914);MAME Mame4all;;1990;Mitchell;Shooter / 3rd Person;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);Final Burn Alpha;;1996;Capcom;Puzzle / Drop;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);MAME (Advance);;1996;Capcom;Puzzle / Drop;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);MAME 2003;;1996;Capcom;Puzzle / Drop;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);MAME 2003 PLUS;;1996;Capcom;Puzzle / Drop;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);MAME 2010;;1996;Capcom;Puzzle / Drop;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);MAME 2015;;1996;Capcom;Puzzle / Drop;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);MAME CURRENT;;1996;Capcom;Puzzle / Drop;;;;;0
+spf2t;Super Puzzle Fighter II Turbo (USA 960620);MAME Mame4all;;1996;Capcom;Puzzle / Drop;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);Final Burn Alpha;;1996;Konami;Puzzle / Misc.;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);MAME (Advance);;1996;Konami;Puzzle / Misc.;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);MAME 2003;;1996;Konami;Puzzle / Misc.;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);MAME 2003 PLUS;;1996;Konami;Puzzle / Misc.;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);MAME 2010;;1996;Konami;Puzzle / Misc.;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);MAME 2015;;1996;Konami;Puzzle / Misc.;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);MAME CURRENT;;1996;Konami;Puzzle / Misc.;;;;;0
+tokkae;Taisen Tokkae-dama (ver JAA);MAME Mame4all;;1996;Konami;Puzzle / Misc.;;;;;0
+tetrisp2;Tetris Plus 2 (World);Final Burn Alpha;;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tetrisp2;Tetris Plus 2 (World);MAME (Advance);;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tetrisp2;Tetris Plus 2 (World);MAME 2003;;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tetrisp2;Tetris Plus 2 (World);MAME 2003 PLUS;;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tetrisp2;Tetris Plus 2 (World);MAME 2010;;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tetrisp2;Tetris Plus 2 (World);MAME 2015;;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tetrisp2;Tetris Plus 2 (World);MAME CURRENT;;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tetrisp2;Tetris Plus 2 (World);MAME Mame4all;;1997;Jaleco / The Tetris Company;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;Final Burn Alpha;;2000;Arika;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;MAME (Advance);;2000;Arika;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;MAME 2003;;2000;Arika;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;MAME 2003 PLUS;;2000;Arika;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;MAME 2010;;2000;Arika;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;MAME 2015;;2000;Arika;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;MAME CURRENT;;2000;Arika;Puzzle / Drop;;;;;0
+tgm2;Tetris the Absolute The Grand Master 2;MAME Mame4all;;2000;Arika;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;Final Burn Alpha;;1990;Nintendo;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;MAME (Advance);;1990;Nintendo;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;MAME 2003;;1990;Nintendo;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;MAME 2003 PLUS;;1990;Nintendo;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;MAME 2010;;1990;Nintendo;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;MAME 2015;;1990;Nintendo;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;MAME CURRENT;;1990;Nintendo;Puzzle / Drop;;;;;0
+drmario;Vs. Dr. Mario;MAME Mame4all;;1990;Nintendo;Puzzle / Drop;;;;;0
+watrball;Water Balls;Final Burn Alpha;;1996;ABM;Puzzle / Toss;;;;;0
+watrball;Water Balls;MAME (Advance);;1996;ABM;Puzzle / Toss;;;;;0
+watrball;Water Balls;MAME 2003;;1996;ABM;Puzzle / Toss;;;;;0
+watrball;Water Balls;MAME 2003 PLUS;;1996;ABM;Puzzle / Toss;;;;;0
+watrball;Water Balls;MAME 2010;;1996;ABM;Puzzle / Toss;;;;;0
+watrball;Water Balls;MAME 2015;;1996;ABM;Puzzle / Toss;;;;;0
+watrball;Water Balls;MAME CURRENT;;1996;ABM;Puzzle / Toss;;;;;0
+watrball;Water Balls;MAME Mame4all;;1996;ABM;Puzzle / Toss;;;;;0
