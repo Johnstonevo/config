@@ -3251,3 +3251,23 @@ display	Love
 
 
 
+
+
+
+display	RetroPie
+	layout               HP2-Systems-Menu
+	romlist              RetroPie
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0
+
+
+

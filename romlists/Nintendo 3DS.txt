@@ -1,0 +1,17 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Cave Story 3D (USA);Cave Story 3D (USA);Nintendo 3DS;;2011;NIS America;Platform;;;;;0;;;;;
+Detective Pikachu (USA);Detective Pikachu (USA);Nintendo 3DS;;2016;The Pokémon Company;Adventure;;;;;0;;;;;
+Dragon Ball Z - Extreme Butoden (USA);Dragon Ball Z - Extreme Butoden (USA);Nintendo 3DS;;;;;;;;;;;;;;
+Kirby’s Blowout Blast (USA);Kirby’s Blowout Blast (USA);Nintendo 3DS;;2017;Nintendo;Platform;;;;;0;;;;;
+Mario Kart 7 (USA);Mario Kart 7 (USA);Nintendo 3DS;;2011;Nintendo;Driving;;;;;0;;;;;
+Mario and Sonic at the London 2012 Olympic Games (USA);Mario and Sonic at the London 2012 Olympic Games (USA);Nintendo 3DS;;2012;Sega;Sports/Olympic;;;;;0;;;;;
+Metal Gear Solid 3D - Snake Eater (USA);Metal Gear Solid 3D - Snake Eater (USA);Nintendo 3DS;;;;;;;;;;;;;;
+Metroid - Samus Returns (USA);Metroid - Samus Returns (USA);Nintendo 3DS;;;;;;;;;;;;;;
+My Hero Academia - Battle for All (JPN) Decrypted;My Hero Academia - Battle for All (JPN) Decrypted;Nintendo 3DS;;;;;;;;;;;;;;
+Need for Speed - The Run (USA);Need for Speed - The Run (USA);Nintendo 3DS;;;;;;;;;;;;;;
+New Super Mario Bros. 2 (USA);New Super Mario Bros. 2;Nintendo 3DS;;2012;Nintendo;Platform;;;;;0;;;;;
+Pro Evolution Soccer 2013 3D (USA);Pro Evolution Soccer 2013 3D (USA);Nintendo 3DS;;2012;Konami;Sports/Soccer;;;;;0;;;;;
+Ridge Racer 3D (USA);Ridge Racer 3D (USA);Nintendo 3DS;;2011;Namco Bandai Games;Driving;;;;;0;;;;;
+Shovel Knight (USA);Shovel Knight (USA);Nintendo 3DS;;2015;Yacht Club Games;Platform;;;;;0;;;;;
+Super Mario 3D Land (USA);Super Mario 3D Land;Nintendo 3DS;;2011;Nintendo;Platform;;;;;0;;;;;
+Super Mario Maker for Nintendo 3DS (USA);Super Mario Maker for Nintendo 3DS (USA);Nintendo 3DS;;2016;Nintendo;Platform;;;;;0;;;;;

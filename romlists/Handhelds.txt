@@ -12,3 +12,4 @@ Nintendo Game Boy;Nintendo Game Boy;@;;;;;;;;;;;;;;
 Nintendo Game Boy Color;Nintendo Game Boy Color;@;;;;;;;;;;;;;;
 Nintendo Game Boy Advance;Nintendo Game Boy Advance;@;;;;;;;;;;;;;;
 Nintendo Pokemon Mini;Nintendo Pokemon Mini;@;;;;;;;;;;;;;;
+Nintendo 3DS;Nintendo 3DS;@;;;;;;;;;;;;;;
