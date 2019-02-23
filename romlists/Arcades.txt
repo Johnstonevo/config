@@ -10,11 +10,12 @@ No Filler Arcade Shoot 'em Ups Horizontal;No Filler Arcade Shoot 'em Ups Horizon
 No Filler Arcade Shoot 'em Ups Vertical;No Filler Arcade Shoot 'em Ups Vertical;@;Arcade Shmups;;;;;;;;;;;;;
 No Filler Arcade Sports;No Filler Arcade Sports;@;Sports Collection;;;;;;;;;;;;;
 No Filler Arcade Vs Fighter;No Filler Arcade Vs Fighter;@;Fighting Games Collection;;;;;;;;;;;;;
-Arcade;Arcade;@;;;;;;;;;;;;;;
-MAME (Advance);MAME (Advance);@;;;;;;;;;;;;;;
-MAME CURRENT;MAME CURRENT;@;Mame;;;;;;;;;;;;;
 Final Burn Alpha;Final Burn Alpha;@;;;;;;;;;;;;;;
+Arcade;Arcade;@;;;;;;;;;;;;;;
+MAME Advance;MAME Advance;@;MAME (Advance);;;;;;;;;;;;;
+MAME CURRENT;MAME CURRENT;@;Mame;;;;;;;;;;;;;
 MAME Mame4all;MAME Mame4all;@;MAME (Mame4all);;;;;;;;;;;;;
+MAME 2003;MAME 2003;@;MAME (Libretro);;;;;;;;;;;;;
 MAME 2003 PLUS;MAME 2003 PLUS;@;MAME (Libretro);;;;;;;;;;;;;
 MAME 2010;MAME 2010;@;MAME (Libretro);;;;;;;;;;;;;
 MAME 2015;MAME 2015;@;MAME (Libretro);;;;;;;;;;;;;

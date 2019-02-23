@@ -545,6 +545,7 @@ Scooby-Doo Mystery (USA);Scooby-Doo Mystery (USA);Super Nintendo Entertainment S
 SeaQuest DSV (USA);SeaQuest DSV (USA);Super Nintendo Entertainment System;;1995;Malibu;Action;;;;;0;;;;;
 Secret of Evermore (USA);Secret of Evermore (USA);Super Nintendo Entertainment System;;1995;SquareSoft;Role-Playing;;;;;0;;;;;
 Secret of Mana (USA);Secret of Mana (USA);Super Nintendo Entertainment System;;1993;SquareSoft;Role-Playing;;;;;0;;;;;
+Secret of Mana - Relocalized;Secret of Mana - Relocalized;Super Nintendo Entertainment System;;;;;;;;;;;;;;
 Shadow, The (USA) (Proto);Shadow, The (USA) (Proto);Super Nintendo Entertainment System;;1994;Ocean;Beat-'Em-Up;;;;;0;;;;;
 Shadowrun (USA);Shadowrun (USA);Super Nintendo Entertainment System;;1993;Data East;Role-Playing;;;;;0;;;;;
 Shanghai II - Dragon's Eye (USA);Shanghai II - Dragon's Eye (USA);Super Nintendo Entertainment System;;1993;Activision;Puzzle;;;;;0;;;;;
