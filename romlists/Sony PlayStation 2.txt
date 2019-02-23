@@ -1355,6 +1355,7 @@ Metal Gear Solid 3 - Subsistence (USA) (Disc 2);Metal Gear Solid 3 - Subsistence
 Metal Gear Solid 3 - Subsistence (USA) (Disc 3);Metal Gear Solid 3 - Subsistence (USA) (Disc 3);Sony PlayStation 2;;2006;Aspect;Action;;;;;0;;;;;
 Metal Saga (USA);Metal Saga (USA);Sony PlayStation 2;;2006;Crea - Tech;Role-Playing;;;;;0;;;;;
 Metal Slug 3 (Europe);Metal Slug 3 (Europe);Sony PlayStation 2;;2004;SNK;Shoot-'Em-Up;;;;;0;;;;;
+Metal Slug 3D;Metal Slug 3D;Sony PlayStation 2;;;;;;;;;;;;;;
 Metal Slug 4 & 5 (USA) (Disc 1);Metal Slug 4 & 5 (USA) (Disc 1);Sony PlayStation 2;;2005;BrezzaSoft;Shoot-'Em-Up;;;;;0;;;;;
 Metal Slug 4 & 5 (USA) (Disc 2);Metal Slug 4 & 5 (USA) (Disc 2);Sony PlayStation 2;;2005;BrezzaSoft;Shoot-'Em-Up;;;;;0;;;;;
 Metal Slug Anthology (USA);Metal Slug Anthology (USA);Sony PlayStation 2;;2007;Terminal Reality;Compilation;;;;;0;;;;;
@@ -1963,6 +1964,7 @@ ShellShock - Nam '67 (USA);ShellShock - Nam '67 (USA);Sony PlayStation 2;;2004;G
 Shepherd's Crossing (USA);Shepherd's Crossing (USA);Sony PlayStation 2;;2008;Success;Strategy;;;;;0;;;;;
 Shield, The - The Game (USA);Shield, The - The Game (USA);Sony PlayStation 2;;2007;Point of View;Shooter;;;;;0;;;;;
 Shifters (USA);Shifters (USA);Sony PlayStation 2;;2002;3DO;Action;;;;;0;;;;;
+Shin Bakusou Dekotora Densetsu (Japan);Shin Bakusou Dekotora Densetsu (Japan);Sony PlayStation 2;;;;;;;;;;;;;;
 Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. the Soulless Army (USA);Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. the Soulless Army (USA);Sony PlayStation 2;;2006;Atlus Co.;Role-Playing;;;;;0;;;;;
 Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA);Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA);Sony PlayStation 2;;2009;Atlus Co.;Role-Playing;;;;;0;;;;;
 Shin Megami Tensei - Digital Devil Saga (USA);Shin Megami Tensei - Digital Devil Saga (USA);Sony PlayStation 2;;2005;Atlus Co.;Role-Playing;;;;;0;;;;;
@@ -2272,6 +2274,7 @@ Test Drive - Eve of Destruction (USA);Test Drive - Eve of Destruction (USA);Sony
 Test Drive Off-Road Wide Open (USA);Test Drive Off-Road Wide Open (USA);Sony PlayStation 2;;2001;Rockstar San Diego;Driving;;;;;0;;;;;
 Test Drive Unlimited (USA);Test Drive Unlimited (USA);Sony PlayStation 2;;2007;Melbourne House;Driving;;;;;0;;;;;
 Tetris Worlds (USA);Tetris Worlds (USA);Sony PlayStation 2;;2002;Blue Planet Software;Puzzle;;;;;0;;;;;
+The King of Fighters '94 Re-Bout;The King of Fighters '94 Re-Bout;Sony PlayStation 2;;;;;;;;;;;;;;
 Theme Park Roller Coaster (USA);Theme Park Roller Coaster (USA);Sony PlayStation 2;;2000;Bullfrog Productions;Strategy;;;;;0;;;;;
 They Came from the Skies (Europe);They Came from the Skies (Europe);Sony PlayStation 2;;2007;Midas Interactive Entertainment;Flying;;;;;0;;;;;
 Thing, The (USA);Thing, The (USA);Sony PlayStation 2;;2002;Computer Artworks;Action;;;;;0;;;;;
