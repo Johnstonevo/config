@@ -7,6 +7,7 @@ display	Misc
 	in_cycle             yes
 	in_menu              yes
 	filter               All
+    sort_by            Title
 	filter               Favourites
 		rule                 Favourite equals 1
 
@@ -16,8 +17,464 @@ display	Arcades
 	in_cycle             yes
 	in_menu              yes
 	filter               All
+    sort_by            Title
 	filter               Favourites
 		rule                 Favourite equals 1
+
+
+display	No Filler Arcade Beat 'n' Hack
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Beat 'n' Hack
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+
+
+
+display	No Filler Arcade Classic Horizontal
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Classic Horizontal
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Classic Vertical
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Classic Vertical
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Multiplayer
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Multiplayer
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Platformers
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Platformers
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Puzzle
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Puzzle
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Run 'n' Gun
+	layout               HP2-Arcade-Menu
+	romlist             No Filler Arcade Run 'n' Gun
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Shoot 'em Ups Horizontal
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Shoot 'em Ups Horizontal
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Shoot 'em Ups Vertical
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Shoot 'em Ups Vertical
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Sports
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Sports
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
+
+display	No Filler Arcade Vs Fighter
+	layout               HP2-Arcade-Menu
+	romlist              No Filler Arcade Vs Fighter
+	in_cycle             no
+	in_menu              no
+  global_filter
+		rule                    FileIsAvailable equals 1
+	filter               All
+    sort_by            Title
+  filter               Favourites
+    sort_by            Title
+		rule                 Favourite equals 1
+  filter              "Final Burn Alpha"
+    sort_by            Title
+    rule              Emulator contains Final Burn Alpha
+  filter              "MAME Mame4All"
+    sort_by            Title
+    rule              Emulator contains MAME Mame4All
+  filter              MAME Advance
+    sort_by            Title
+    rule              Emulator contains MAME Advance
+  filter              "MAME 2003"
+    sort_by            Title
+    rule              Emulator contains MAME 2003
+  filter              "MAME 2003 PLUS"
+    sort_by            Title
+    rule              Emulator contains MAME 2003 PLUS
+  filter              "MAME 2010"
+    sort_by            Title
+    rule              Emulator contains MAME 2010
+  filter              "MAME 2015"
+    sort_by            Title
+    rule              Emulator contains MAME 2015
+  filter              "MAME 2016"
+    sort_by            Title
+    rule              Emulator contains MAME 2016
+  filter              "MAME CURRENT"
+    sort_by            Title
+    rule              Emulator contains MAME CURRENT
+
 
 display	Consoles
 	layout               HP2-Sub-Menu
@@ -25,6 +482,7 @@ display	Consoles
 	in_cycle             yes
 	in_menu              yes
 	filter               All
+  sort_by            Title
 	filter               Favourites
 		rule                 Favourite equals 1
 	filter               Atari
@@ -49,7 +507,8 @@ display	Computers
 	in_cycle             yes
 	in_menu              yes
 	filter               All
-	filter               Favourites
+    sort_by            Title
+  filter               Favourites
 		rule                 Favourite equals 1
 
 display	Handhelds
@@ -57,7 +516,8 @@ display	Handhelds
 	romlist              Handhelds
 	in_cycle             yes
 	in_menu              yes
-	filter               All
+  filter               All
+    sort_by            Title
 	filter               Favourites
 		rule                 Favourite equals 1
 	filter               Atari
@@ -93,15 +553,16 @@ display	Hacks
 	romlist              Hacks
 	in_cycle             yes
 	in_menu              yes
-	filter               All
+  filter               All
+    sort_by            Title
 	filter               Favourites
 		rule                 Favourite equals 1
 
 
 sound
-	sound_volume         50
-	ambient_volume       50
-	movie_volume         50
+	sound_volume         10
+	ambient_volume       10
+	movie_volume         10
 	select               se_sys_click_game.wav
 	prev_game            se_sys_cursor.wav
 	next_game            se_sys_cursor.wav
@@ -2637,6 +3098,92 @@ display	MAME Mame4all
 
 
 
+display	MAME 2003
+	layout               HP2-Arcade-Menu
+	romlist              MAME 2003
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                    FileIsAvailable equals 1
+		rule                    Category not_contains Mature
+		rule                    Status not_equals preliminary
+		rule                    Category not_contains Electromechanical|Tabletop|Casino|Quiz|Mahjong|Computer|Microcomputer|Test|Portable|Console|Handheld|Device|Training Board|Synthesiser|Clock|Document Processors
+		rule                    Category not_equals Misc.|Quiz / Korean|Electromechanical / Reels|Casino / Cards|Casino / Reels
+	filter              All
+		rule                    Name not_contains "(Japan"|"(Brazil"|"(Asia"|Bust-A-Move
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Favourites
+		rule                    Favourite equals 1
+	filter              "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                    PlayedCount not_contains 0
+	filter              Breakout
+		rule                    Category contains Ball & Paddle|Breakout
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Driving
+		rule                    Category contains Driving|Biking|Motorcycle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Fighter
+		rule                    Category contains Fighter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              "Maze Games"
+		rule                    Category equals Maze
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Mini-Games
+		rule                    Category contains Mini-Games
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Pinball
+		rule                    Category contains Pinball
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Platform
+		rule                    Category contains Platform
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Puzzle
+		rule                    Category contains Puzzle
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Rhythm
+		rule                    Category contains Rhythm
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Shooter
+		rule                    Category contains Shooter
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Sports
+		rule                    Category contains Sports
+		rule                    Title not_contains bootleg|prototype
+		rule                    Manufacturer not_contains bootleg
+		rule                    CloneOf not_equals .*
+	filter              Clones
+		rule                    CloneOf contains .*
+	filter              Bootleg
+		rule                    Manufacturer contains bootleg
+	filter              Prototype
+		rule                    Title contains prototype
+
+
+
 
 
 
@@ -3271,3 +3818,20 @@ display	RetroPie
 
 
 
+
+
+
+display	Nintendo 3DS
+	layout               HP2-Systems-Menu
+	romlist              Nintendo 3DS
+	in_cycle             no
+	in_menu              no
+	global_filter
+		rule                 FileIsAvailable equals 1
+	filter               All
+	filter               Favourites
+		rule                 Favourite equals 1
+	filter               "Most Played Games"
+		sort_by              PlayedCount
+		reverse_order        true
+		rule                 PlayedCount not_contains 0

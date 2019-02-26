@@ -14,7 +14,7 @@ NEC TurboGrafx-16;NEC TurboGrafx-16;@;;;;;;;;;;;;;;
 NEC TurboGrafx-CD;NEC TurboGrafx-CD;@;;;;;;;;;;;;;;
 NEC PC-FX;NEC PC-FX;@;;;;;;;;;;;;;;
 Nintendo Entertainment System;Nintendo Entertainment System;@;;;;;;;;;;;;;;
-Nintendo Famicom;Nintendo Famicom,@;;;;;;;;;;;;;;
+Nintendo Famicom;Nintendo Famicom;@;;;;;;;;;;;;;;
 Nintendo Famicom Disk System;Nintendo Famicom Disk System;@;;;;;;;;;;;;;;
 Super Nintendo Entertainment System;Super Nintendo Entertainment System;@;;;;;;;;;;;;;;
 Nintendo Super Famicom;Nintendo Super Famicom;@;;;;;;;;;;;;;;

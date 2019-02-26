@@ -1,5 +1,4 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-1genh1;1genh1;Sega Genesis Hacks;;;;;;;;;;;;;;
 Altered Beast (Alternate Style);Altered Beast (Alternate Style);Sega Genesis Hacks;;;;;;;;;;;;;;
 Altered Beast (Hack);Altered Beast (Hack);Sega Genesis Hacks;;;;;;;;;;;;;;
 Altered Beast with Arcade Voice Samples;Altered Beast with Arcade Voice Samples;Sega Genesis Hacks;;;;;;;;;;;;;;

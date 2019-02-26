@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+1ggh1;1ggh1;Sega Game Gear Hacks;;;;;;;;;;;;;;
+Royal Stone (Hack);Royal Stone (Hack);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Royal Stone (T);Royal Stone (T);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Shining Force III - Final Conflict (Hack);Shining Force III - Final Conflict (Hack);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Shining Force III - Final Conflict (T);Shining Force III - Final Conflict (T);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Sonic Drift 1;Sonic Drift 1;Sega Game Gear Hacks;;;;;;;;;;;;;;
+Sonic Drift 1 (Hack);Sonic Drift 1 (Hack);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Sylvan Tale (Hack);Sylvan Tale (Hack);Sega Game Gear Hacks;;;;;;;;;;;;;;
+Sylvan Tale (T);Sylvan Tale (T);Sega Game Gear Hacks;;;;;;;;;;;;;;
+ggh;ggh;Sega Game Gear Hacks;;;;;;;;;;;;;;

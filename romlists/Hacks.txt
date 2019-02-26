@@ -2,3 +2,4 @@
 Super Nintendo Entertainment System Hacks;Super Nintendo Entertainment System Hacks;@;;;;;;;;;;;;;;
 Sega Genesis Hacks;Sega Genesis Hacks;@;;;;;;;;;;;;;;
 Nintendo Entertainment System Hacks;Nintendo Entertainment System Hacks;@;;;;;;;;;;;;;;
+Sega Game Gear Hacks;Sega Game Gear Hacks;@;;;;;;;;;;;;;;
